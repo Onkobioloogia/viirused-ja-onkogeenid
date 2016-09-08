@@ -51,6 +51,17 @@ strong {
 }
 </style>
 
+<!-- Slide numbers -->
+<style>
+slides > slide:not(.nobackground):after {
+  font-size: 12pt;  
+  content: attr(data-slide-num) "/" attr(data-total-slides);
+  position: absolute;
+  bottom: 20px;
+  right: 60px;
+  line-height: 1.9;
+}
+</style>
 
 ---.segue .dark .nobackground
 ## Tuumor-onkoviiruste avastamine
