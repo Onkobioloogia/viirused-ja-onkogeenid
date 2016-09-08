@@ -432,13 +432,10 @@ Relationships between HPV integration, copy-number amplifications and gene expre
 
 ![gastric](assets/img/gastriccancer.jpg)
 
-
---- .segue .dark .nobackground
-
 --- .segue .dark .nobackground
 ## Kuidas seletada vähi teket inimesel
 
---- bg:lavender
+--- 
 ## Hüpotees: endogeensed proviirused
 
 - Lähtudes retroviiruste elutsüklist, integreeruvad genoomi **endogeensete retroviirustena**,
@@ -446,7 +443,7 @@ Relationships between HPV integration, copy-number amplifications and gene expre
 - enamasti vaikeolekus, ei transkribeeri oma geene,
 - juhuslik ning harv aktiveerumine.
 
---- bg:lavender
+--- 
 ## Endogeensed proviirused hiirtel
 
 - BrdU aktiveerib Akr liini hiirtel endogeensed retroviirused (*MLV, murine leukemia virus*)
@@ -460,7 +457,7 @@ Relationships between HPV integration, copy-number amplifications and gene expre
 </footer>
 
 
---- bg:lavender
+--- 
 ## Inimese ERV-d... FUBAR
 
 - 8% inimese genoomist pärineb retroviirustest, kuid
@@ -501,7 +498,7 @@ Katsusaburō Yamagiwa
 
 - Füüsilise või keemilise kartsinogeeni poolt transformeerunud rakud kannavad muteerunud geene e. onkogeene, mis rikuvad normaalse kasvukontrolli.
 
---- &twocol bg:pink
+--- &twocol
 ## DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
 
 ***=left
@@ -519,7 +516,7 @@ Katsusaburō Yamagiwa
 <footer class="source">Pilt: Sue Weil, Memorial Sloan-Kettering Cancer Center
 </footer>
 
---- bg:pink
+--- 
 
 ## 1 onkogeen = 1 transformeerunud rakk/koloonia
 
@@ -529,17 +526,10 @@ Katsusaburō Yamagiwa
 
 <q>Kokkuvõte: onkogeenid tekivad ka viirustest sõltumatult.</q>
 
---- &twocol bg:pink
+--- 
 ## Retroviiruste poolt aktiveeritud onkogeenid on samad mis mitte-viraalsete kartsinogeenide aktiveeritud
 
 - Harvey roti sarkoomiviiruse H-ras proov hübridiseerub inimese kusepõie kartsinoomi DNA-ga transfekteeritud NIH3T3 rakkude genoomsele DNA-le ([Parada et al., 1982](http://www.ncbi.nlm.nih.gov/pubmed/6283357):  paremal).
-
-***=left
-
-Southern bloti põhimõte
-
-<img src="http://missinglink.ucsf.edu/lm/molecularmethods/images/blotting_clip_image001.gif" style="width:400px;"/>
-
 
 ***=right
 
@@ -566,17 +556,14 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 ---&twocol
 ## erbB2/neu onkogeeni amplifikatsioon rinnakasvajates
 
-- 1987. a. kirjeldati, seos erbB2/neu geeni amplifikatsiooni ja rinnavähi elulemuse ning relapsi vahel.
+- 1987. a. kirjeldati seos erbB2/neu geeni amplifikatsiooni ja rinnavähi elulemuse ning relapsi vahel.
 
 ***=left
 
-<img src="erbB2_amplif_Slamon1987.png" style="width:260px;"/>
-
-
-<img src="erbB2_surv_Slamon1987.png" style="width:260px;"/>
+<img src="assets/img/erbB2_amplif_Slamon1987.png" style="width:260px;"/>
+<img src="assets/img/erbB2_surv_Slamon1987.png" style="width:260px;"/>
 
 ***=right
-
 
 <img src="http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png" style="width:320px;"/>
 
@@ -613,7 +600,7 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 
 ***=right
 
-![hras](ha-rasG12V.png)
+![hras](assets/img/ha-rasG12V.png)
 
 <footer class="source">CLIFFORD J. TABIN, SCOTT M. BRADLEY, CORNELIA I. BARGMANN, ROBERT A. WEINBERG, ALEX G. PAPAGEORGE, EDWARD M. SCOLNICK, RAVI DHAR, DOUGLAS R. LOWY & ESTHER H. CHANG. Mechanism of activation of a human oncogene. Nature 300, 143 - 149 (11 November 1982); doi:10.1038/300143a0
 </footer>
@@ -742,6 +729,7 @@ Leukeemiates ja lümfoomides
 - **Onkogeen** on geen mis võib potentsiaalselt vähki tekitada ja vähkides on nad muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
 - **Proto-onkogeen** on normaalne geen mis võib muutuda onkogeeniks.
 
+---
 ## Lingid loengutele
 
 --- &twocol 
