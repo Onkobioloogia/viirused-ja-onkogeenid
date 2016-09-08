@@ -352,7 +352,7 @@ K-ras |F-MLV | T-raku lümfoom | hiir | väike G valk
 CycD1 | F-MLV | T-raku lümfoom | hiir | G1 tsükliin
 
 
---- bg:lavender
+---
 ## Viiruse onkogeenid: RNA versus DNA viirused
 
 - Retroviiruste onkogeenid on rakulist päritolu ja peamiselt dereguleerivad signalisatsiooni ja transkriptsiooni kontrolli (SRC, MYC, RAS, ERBB).
@@ -361,7 +361,7 @@ CycD1 | F-MLV | T-raku lümfoom | hiir | G1 tsükliin
 
 - **DNA viiruste onkogeenid toimivad rakuliste kontrollmehhanismide blokeerimise teel**, nt. HPV E6 ja SV40 LT inhibeerivad p53, HPV E7 inhibeerib RB-d.  
 
---- &twocol bg:lavender
+--- &twocol 
 ## Viiruse onkovalkude päritolu
 
 Kas (i) viirus paneb rakulise jagunemise masinavärgi tööle selleks, et paljuneda või (ii) üritab immunsüsteemile märkamatuks jääda.
@@ -426,29 +426,8 @@ Relationships between HPV integration, copy-number amplifications and gene expre
 
 ***=right
 
-![gastric](gastriccancer.jpg)
+![gastric](assets/img/gastriccancer.jpg)
 
---- 
-
-## Viited
-
-- Why do viruses cause cancer? Highlights of the first century of human tumour virology
-Patrick S. Moore & Yuan Chang
-Nature Reviews Cancer 10, 878-889 (December 2010)
-doi:10.1038/nrc2961
-- Retroviral oncogenes: a historical primer
-Peter K. Vogt
-Nature Reviews Cancer 12, 639-648 (September 2012)
-doi:10.1038/nrc3320
-- The Biology of Cancer
-Robert A. Weinberg
-Garland Science (2007)
-ISBN: 9780815340782
-- Landscape of genomic alterations in cervical carcinomas
-Nature 506, 371–375 (20 February 2014) doi:10.1038/nature12881
-- Comprehensive molecular characterization of gastric adenocarcinoma
-The Cancer Genome Atlas Research Network
-Nature 513, 202–209 (11 September 2014) doi:10.1038/nature13480
 
 --- .segue .dark .nobackground
 
