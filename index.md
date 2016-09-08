@@ -192,7 +192,7 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ---
 ## Inimese vähid kus esineb kõrge viirusekspressioon
 
-![viirused](ncomms3513-f1.jpg)
+![viirused](assets/img/ncomms3513-f1.jpg)
 
 <footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
 </footer>
