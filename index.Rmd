@@ -83,7 +83,8 @@ $(function() {
 ---
 ## Rousi kana sarkoomi mudeli skeem
 
-- 1909-11 aastatel katsetas **Francis Peyton Rous** (1879-1970) talle uurimiseks toodud **kana sarkoomiga** ja leidis samuti, et seda tuumorit on võimalik kanadel üle kanda vähi rakkudest sõltumatult.
+- Aastatel 1909-11 katsetas **Francis Peyton Rous** (1879-1970) **kana sarkoomiga**.
+- Rous leidis, et seda **tuumorit on võimalik kanadel üle kanda vähi rakkudest sõltumatult**.
 
 ![rousmethod](http://o.quizlet.com/wwG.Q0fCHg8IoXzObiRWeg.png)
 
