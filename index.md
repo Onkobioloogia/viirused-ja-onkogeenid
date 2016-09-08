@@ -425,7 +425,7 @@ Relationships between HPV integration, copy-number amplifications and gene expre
 - EBV alagruppi iseloomustab 9p lookuse amplifikatsioon 15% juhtudest.
 - 9p lookuses asuvad JAK2, CD274 ja PDCD1LG2 geenid.
     - JAK2 retseptor-türosiinkinaas ja potensiaalne terapeutiline märklaud. 
-    - CD274 ja PDCD1LG2 kodeerivad PD-L1 ja PD-L2 immunosuppresseerivaid valkeant nn. _checkpoint proteins_.
+    - CD274 ja PDCD1LG2 kodeerivad PD-L1 ja PD-L2 immunosuppresseerivaid valke nn. _checkpoint proteins_.
     - PD-L1 valku blokeerivad antikehad on hiljuti kliinilisse kasutusse jõudnud paljulubavad vähiterapeutikumid.
 
 ***=right
@@ -435,16 +435,321 @@ Relationships between HPV integration, copy-number amplifications and gene expre
 
 --- .segue .dark .nobackground
 
+--- .segue .dark .nobackground
+## Kuidas seletada vähi teket inimesel
+
+--- bg:lavender
+## Hüpotees: endogeensed proviirused
+
+- Lähtudes retroviiruste elutsüklist, integreeruvad genoomi **endogeensete retroviirustena**,
+- satuvad idutee rakkudesse ja muutuvad pärilikuks,
+- enamasti vaikeolekus, ei transkribeeri oma geene,
+- juhuslik ning harv aktiveerumine.
+
+--- bg:lavender
+## Endogeensed proviirused hiirtel
+
+- BrdU aktiveerib Akr liini hiirtel endogeensed retroviirused (*MLV, murine leukemia virus*)
+    - DNA metülatsioon eemaldatakse lookusest ja vaigistamine kaob
+- Akr liini hiirtel on kaks lookust kuhu on integreerunud replikatsiooni-kompetentne MLV
+- MLV produktsioon viib leukeemia tekkele.
+
+<img src="http://www.jimmunol.org/content/192/4/1343/F1.large.jpg" style="width:460px;" \>
+
+<footer class="source">Pilt: ~5% hiire genoomist sisaldab endogeenseid retroviirus järjestusi. [Endogenous Retroviruses and the Development of Cancer](http://www.jimmunol.org/content/192/4/1343.full)
+</footer>
+
+
+--- bg:lavender
+## Inimese ERV-d... FUBAR
+
+- 8% inimese genoomist pärineb retroviirustest, kuid
+- inimese kasvajatest pole leitud retroviiruseid ega jälgigi nendest (pöörd-transkriptaas),
+- inimese LTR-i sisaldavad järjestused on pärit vähemalt >5M aasta tagusest ajast, 
+    - tugevasti muteerunud, 
+    - mittefunktsionaalsed,
+    - läbinud geenitriivi ja fikseerunud (populatsioonis on kõigil identne lookus).
+- HERV-K alamperekonnas on lookuseid millel on kõik ORF-id intaktsed, kuid viirust neilt ei toodeta ja neid pole ka vähkides leitud.
+
+---
+## Kui mitte viirused, siis mis tekitab vähki? Kartsinogeenid!
+
+- Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine.
+- Sellisteks kasvukontrolli geenideks võivad olla normaalsed raku geenid, sarnaselt retroviirustest leitud proto-onkogeenidega.
+
+![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
+
+--- &twocol
+## Keemilised kartsinogeenid kutsuvad esile kasvajaid
+
+***=left
+
+![KY](http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yamagiwa.JPG/300px-Yamagiwa.JPG)
+
+
+Katsusaburō Yamagiwa
+
+***=right
+- 1915. aastal demonstreeris pigi kartsinogeense toime
+- pintseldas küüliku kõrvu igapäevaselt pigiga,
+- mitu kuud hiljem moodustus lamerakuline kartsinoom.
+
+---
+## Kartsinogeenid toimivad mutageenidena
+
+- Tugevalt mutageensed ühendid on ka tugevalt kartsinogeensed (nt. aflatoksiin B1, benso(a)püreen). 
+
+- Füüsilise või keemilise kartsinogeeni poolt transformeerunud rakud kannavad muteerunud geene e. onkogeene, mis rikuvad normaalse kasvukontrolli.
+
+--- &twocol bg:pink
+## DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
+
+***=left
+
+- Hiire C3HT1/2 rakke transformeeriti 3-metüülkolantreeni (3-ME, MCA) abil,
+- transformeerunud rakkudest isoleeriti genoomne DNA,
+- eraldatud DNA transformeeriti mitte-tumorigeensetesse NIH3T3 rakkudesse,
+- isoleeriti kolooniad mis olid transformeerunud ja tumorigeensed.
+- *Sama loogika toimib ka inimese vähirakkudest eraldatud DNA korral.*
+
+***=right
+
+<img src="http://www.ncbi.nlm.nih.gov/books/NBK190612/bin/ch6fu3.jpg" style="width:300px;"/>
+
+<footer class="source">Pilt: Sue Weil, Memorial Sloan-Kettering Cancer Center
+</footer>
+
+--- bg:pink
+
+## 1 onkogeen = 1 transformeerunud rakk/koloonia
+
+- Transformeerunud rakkude genoomse DNA fragmentide transfekteerimisel läheb rakku sisse 0.1% doonor DNA-d.
+
+- Tõenäosus, et kaks lingitud geeni satuvad ühte rakku on $$10^{-3} \times 10^{-3} = 10^{-6} $$ 
+
+<q>Kokkuvõte: onkogeenid tekivad ka viirustest sõltumatult.</q>
+
+--- &twocol bg:pink
+## Retroviiruste poolt aktiveeritud onkogeenid on samad mis mitte-viraalsete kartsinogeenide aktiveeritud
+
+- Harvey roti sarkoomiviiruse H-ras proov hübridiseerub inimese kusepõie kartsinoomi DNA-ga transfekteeritud NIH3T3 rakkude genoomsele DNA-le ([Parada et al., 1982](http://www.ncbi.nlm.nih.gov/pubmed/6283357):  paremal).
+
+***=left
+
+Southern bloti põhimõte
+
+<img src="http://missinglink.ucsf.edu/lm/molecularmethods/images/blotting_clip_image001.gif" style="width:400px;"/>
+
+
+***=right
+
+![parada](http://o.quizlet.com/xr9WvHaD36Lp0zMgy4XrtQ_m.png)
+
+----
+## Inimese vähkide retroviraalsed onkogeenid
+
+Viirus | Liik | Onkogeen | Onkovalk | Inimese kasvaja
+-------|------|----------|----------|----------------------------
+Rousi sarkoom | kana | src | mitte-retseptor TK | käärsoole vähk
+Abelsoni leukeemia | hiir | abl | mitte-retseptor TK | CML
+Lindude erütroblastoos | hiir | erbB | retseptor TK | mao-, kopsu- ja rinnavähk
+McDonough' kassi sarkoom | kass | fms | retseptor TK | AML
+Hardy-Zuckerman kassi viirus | kass | kit | retseptor TK | GI strooma vähk
+Hiire sarkoom 3611 | hiir | raf | Ser/Thr kinaas | kusepõie kartsinoom
+*Simian sarcoma* | ahv | sis | kasvufaktor (PDGF) | erinevad vähid
+Harvey' sarkoom | hiir/rott | H-ras | väike G-valk | kusepõie kartsinoom
+Kirsten'i sarkoom | hiir/rott | K-ras | väike G-valk | erinevad vähid
+Lindude erütroblastoos E26 | kana | ets | transkriptsioonifaktor | leukeemia
+Lindude müelotsütoom | kana | myc | transkriptsioonifaktor | erinevad vähid
+Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
+
+---&twocol
+## erbB2/neu onkogeeni amplifikatsioon rinnakasvajates
+
+- 1987. a. kirjeldati, seos erbB2/neu geeni amplifikatsiooni ja rinnavähi elulemuse ning relapsi vahel.
+
+***=left
+
+<img src="erbB2_amplif_Slamon1987.png" style="width:260px;"/>
+
+
+<img src="erbB2_surv_Slamon1987.png" style="width:260px;"/>
+
+***=right
+
+
+<img src="http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png" style="width:320px;"/>
+
+<footer class="source">Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235: 177-182.
+</footer>
+
+---
+## Proto-onkogeenide aktivatsioon
+
+Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
+
+- valguekspressiooni mõjutavad muutused
+- valgu struktuuri mõjutavad muutused
+
+---
+## Valguekspressiooni mõjutavad muutused
+
+- Normaalsetes rakkudes on proto-onkogeeni ekspressioon kas alla või ülesse reguleeritud omaenda promootori poolt vastusena füsioloogilistele signaalidele
+
+- Retroviirusega seotud onkogeenide puhul läheb geen raku kontrolli alt viiruse kontrolli alla
+    - c-myc ekspressioon on füsioloogilistes tingimustes kasvufaktorite kontrolli all
+    - AMV (Avian Myeoloblastosis Virus) genoomis hakatakse aga v-myc järjestust konstitutiivselt kõrgelt ekspresseerima, sõltumata füsioloogilistest signaalidest mis seda geeni varem reguleerisid.
+
+
+---&twocol
+## Valgu struktuuri mõjutavad muutused
+
+***=left
+
+- H-ras isoleeriti inimese kusepõie kartsinoomist,
+- H-ras ei olnud amplifitseerunud!,
+- sekveneerimine näitas somaatilist G->T punktmutatsiooni, mis oli täiesti piisav et H-ras onkogeeniks muuta
+- Vähides esinev mutatsioon koodonites 12 või 61 (G12V) muudab Ras-i konstitutiivselt aktiivseks rikkudes Ras-i GTPasse aktiivsuse
+
+***=right
+
+![hras](ha-rasG12V.png)
+
+<footer class="source">CLIFFORD J. TABIN, SCOTT M. BRADLEY, CORNELIA I. BARGMANN, ROBERT A. WEINBERG, ALEX G. PAPAGEORGE, EDWARD M. SCOLNICK, RAVI DHAR, DOUGLAS R. LOWY & ESTHER H. CHANG. Mechanism of activation of a human oncogene. Nature 300, 143 - 149 (11 November 1982); doi:10.1038/300143a0
+</footer>
+
+---
+## Ras perekonna geenid on vähkides ühed sagedamini muteerunud
+
+Vähipaige/tüüp | % muteerunud RAS geeniga (homoloog)
+---------|-------------------------
+kõhunääre | 90 (K)
+kilpnääre (papillaarne) | 60 (H,K,N)
+kilpnääre (follikulaarne) | 55 (H,K,N)
+käärsool | 45 (K)
+seminoom | 45 (K,N)
+müelodüsplaasia | 40 (N,K)
+kops (mitte-väikserakuline) | 35 (K)
+AML | 30 (N)
+maks | 30 (N)
+melanoom | 15 (K)
+kusepõis | 10 (K)
+neer | 10 (H)
+
+---
+## Onkogeenide aktivatsioonimehhanismid
+
+- Regulatoorsed (protoonkogeeni amplifikatsioon, tuumorsupressorgeeni deletsioon)
+- Struktuursed (mutatsioonid)
+- Regulatoorsed $\times$ Struktuursed
+
+![muts](http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg)
+
+<footer class="source">[Emerging landscape of oncogenic signatures across human cancers](http://www.nature.com/ng/journal/v45/n10/full/ng.2762.html)</footer>
+
+--- 
+
+## c-MYC aktivatsiooni mehhanismid 
+
+Kolm mehhanismi, kõik regulatoorsed:
+- proviiruse integratsioon (linnud)
+- geeni amplifikatsioon (inimene)
+- kromosomaalsed translokatsioonid
+
+--- &twocol
+
+## N-MYC amplifikatsioon pärilikes neuroblastoomides
+
+***=left
+
+Kahte tüüpi amplifikatsioone
+
+- HSR, homogeenselt värvuvad piirkonnad
+- DM, *double minutes*: kromosoomi välised partiklid
+- amplifikatsioonid on bimodaalsed 10-30 koopiat ja 100-150 koopiat
+- lisaks neuroblastoomidele ka teistes neuroektodermaal kasvajates, astrotsütoomid, glioomid, ka väikse-rakulises kopsukasvajas.
+
+***=right
+*HSR* ja *double minutes* (nooled)
+
+<img src="http://streaming.cineca.it/sestri/courses/cancgen/img/Maris/image053.jpg" style="width:400px;">
+
+--- &twocol
+
+## Sagedamini amplifitseerunud genoomipiirkonnad
+
+***=left
+
+<img src="http://www.nature.com/ng/journal/v45/n10/images/ng.2760-F3.jpg" style="width:380px">
+
+***=right
+
+Top 10 korduvad koopiaarvu muutused (SCNA):
+
+Geen | Funktsioon
+-----|-----------
+CCND1 | G1 tsükliin
+EGFR | TK retseptor
+MYC | transkripts. faktor
+ERBB2 | TK retseptor
+CCNE1 | G1 tsükliin
+MCL1 | anti-apoptootiline valk
+MDM2 | p53 E3 ubikvitiini ligaas
+
+
+<footer class="source">Pan-cancer patterns of somatic copy number alteration. Travis I Zack,  Steven E Schumacher,  Scott L Carter,	Andrew D Cherniack,	Gordon Saksena,	Barbara Tabak,	Michael S Lawrence,	Cheng-Zhong Zhang,	Jeremiah Wala,	Craig H Mermel,	Carrie Sougnez,	Stacey B Gabriel,	Bryan Hernandez,	Hui Shen,	Peter W Laird,	Gad Getz,	Matthew Meyerson	& Rameen Beroukhim Nature Genetics 45, 1134–1140 (2013) doi:10.1038/ng.2760
+</footer>
+
+--- &twocol
+## MYC translokatsioon Burkitti lümfoomides
+
+MYC aktivatsioon translokatsioonilise mehhanismi teel
+
+***=left
+
+- c-myc geene translokeeritakse immunoglobuliini lookusesse kõigis BL.
+- Immunoglobulin raske ahel IgH 80%,
+$\kappa$ või $\lambda$ kerge ahel, kumbagi 10%.
+
+Translokatsioon | Fuusion | Sagedus
+----------------|--------|--------
+t(8;14)(q24;q32)| IGH/MYC | 80%
+t(2;8)(p12;q24) | IGK/MYC | 10%
+t(8;22)(q24;q11) | IGL/MYC | 10 %
+
+***=right
+
+<img src="http://www.nature.com/nature/journal/v421/n6921/images/nature01409-f3.2.jpg" style="width:400px">
+
+---
+## EGFR ligand-sõltumatu signalisatsioon
+
+Mao- ja rinna kartsinoomides, glioblastoomides
+
+![EGFRvIII](http://www.cell.com/cms/attachment/2009273090/2032282083/gr1.jpg)
+
+---
+## BCR-ABL translokatsioon
+
+Leukeemiates ja lümfoomides
+
+![bcrabl](http://img.medscape.com/fullsize/migrated/580/426/era580426.fig1.gif)
+
+
+---
+## Kokkuvõte
+
+- **Onkogeen** on geen mis võib potentsiaalselt vähki tekitada ja vähkides on nad muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
+- **Proto-onkogeen** on normaalne geen mis võib muutuda onkogeeniks.
+
 ## Lingid loengutele
 
 --- &twocol 
 
 ***=left 
 
-- [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus)
-- [Vähitüübid](http://tpall.github.io/Vahityybid)
-- [Onkoviirused](http://tpall.github.io/Onkoviirused)
-- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Sissejuhatav loeng](http://tpall.github.io/onkobioloogia)
+- [Viirused ja onkogeenid](http://tpall.github.io/viirused-ja-onkogeenid)
 - [Retseptorid](http://tpall.github.io/Retseptorid)
 - [Signaalirajad](http://tpall.github.io/Signaalirajad)
 - [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
