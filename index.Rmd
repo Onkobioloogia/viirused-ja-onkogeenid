@@ -80,7 +80,8 @@ strong {
 
 ***=right
 
-![rous](http://cancerbio.files.wordpress.com/2011/05/peyton-rous.jpg)
+<img width='380' src='http://cancerbio.files.wordpress.com/2011/05/peyton-rous.jpg' />
+<!-- ![rous]() -->
 
 <footer class="source">Pilt: The Biology of Cancer. Garland Science.
 </footer>
