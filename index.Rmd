@@ -168,7 +168,8 @@ inimese T-raku leukeemia viirus (HTLV-I) | retroviirus | 9
 ## Seitse viirust
 
 - Praegusel ajal hinnatakse, et viirused vastutavad 10-15% vähijuhtumite eest maailmas. 
-- **Inimestel on leitud seitsmel viirusel seos vähi tekkega.**
+- Inimestel on leitud seitsmel (7) viirusel seos vähi tekkega.
+- Inimese kasvajaviirused on kõik eri klassidest ja hõlmavad kogu viirus-spektrit.
 
 ![xkcd](http://imgs.xkcd.com/comics/seven.png)
 
@@ -177,17 +178,13 @@ inimese T-raku leukeemia viirus (HTLV-I) | retroviirus | 9
 
 Viirus | Genoom | Kasvaja | Esmakirjeldus 
 -------|--------|---------|---------------
-Epstein-Barr viirus (EBV; *human herpesvirus 4*) | dsDNA herpesviirus | Burkitt'i lümfoom | 1964 
+Epstein-Barr viirus (EBV) | dsDNA herpesviirus | Burkitt'i lümfoom | 1964 
 B-hepatiidi viirus (HBV) | ss/dsDNA hepadenoviirus | maksa kartsinoomid | 1965
-inimese T-lümfotroopne viirus I (HTLV-I) | pluss-ahelaline ssRNA retroviirus | T-rakuline leukeemia | 1980
-inimese papilloomiviirused (HPV) 16 ja -18 | dsDNA papilloomiviirus | emakakaela (*cervical*) vähk, peenisekasvajad, anogenitaal- ja  pea-kaela kasvajad | 1983-84
-C-hepatiidi viirus (HCV) | pluss-ahelaline ssRNA flaviviirus | maksa kartsinoomid ja lümfoomid | 1989
-Kaposi sarkoomi herpesviirus (KSHV; ; *human herpesvirus 8*) | dsDNA herpesviirus | Kaposi sarkoom, kehaõõne-lümfoom | 1994
+inimese T-lümfotroopne viirus I (HTLV-I) | +ssRNA retroviirus | T-rakuline leukeemia | 1980
+inimese papilloomiviirus (HPV-16,-18) | dsDNA papilloomiviirus | emakakaela-, peenise-, anogenitaal- ja  pea-kaela kasvajad | 1983-84
+C-hepatiidi viirus (HCV) | +ssRNA flaviviirus | maksa kartsinoomid ja lümfoomid | 1989
+Kaposi sarkoomi herpesviirus (KSHV; HHV8) | dsDNA herpesviirus | Kaposi sarkoom, kehaõõne-lümfoom | 1994
 Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsinoom | 2008
-
----
-
-<q> Inimese kasvajaviirused on kõik eri klassidest ja hõlmavad kogu viirus-spektrit</q>
 
 ---
 ## Inimese vähid kus esineb kõrge viirusekspressioon
