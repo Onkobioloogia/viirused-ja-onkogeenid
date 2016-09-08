@@ -25,7 +25,7 @@ img {
   background-position: 90% 5%;
   background-size: 46%;
   background-color: #CBE7A5; /* ; ; */ }
-  background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
+  background-color: #FFFFFF; /#CBE7A5 #EDE0CF; ; #CA9F9D/
 }
 </style>
 
