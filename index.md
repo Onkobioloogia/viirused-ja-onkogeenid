@@ -421,10 +421,12 @@ Relationships between HPV integration, copy-number amplifications and gene expre
 
 ***=left
 
-- EBV esineb umbes 9% gastric cancers.
-- Amplification of 9p locus containing JAK2, CD274 and PDCD1LG2 was enriched in the EBV subgroup (15% of tumours).
-    - JAK2 encodes a receptor tyrosine kinase and potential therapeutic target. 
-    - CD274 and PDCD1LG2 encode PD-L1 and PD-L2, immunosuppressant proteins.
+- EBV-d on leitud umbes 9% maovähkides.
+- EBV alagruppi iseloomustab 9p lookuse amplifikatsioon 15% juhtudest.
+- 9p lookuses asuvad JAK2, CD274 ja PDCD1LG2 geenid.
+    - JAK2 retseptor-türosiinkinaas ja potensiaalne terapeutiline märklaud. 
+    - CD274 ja PDCD1LG2 kodeerivad PD-L1 ja PD-L2 immunosuppresseerivaid valkeant nn. _checkpoint proteins_.
+    - PD-L1 valku blokeerivad antikehad on hiljuti kliinilisse kasutusse jõudnud paljulubavad vähiterapeutikumid.
 
 ***=right
 
