@@ -53,14 +53,7 @@ strong {
 
 <!-- Slide numbers -->
 <style>
-slides > slide:not(.nobackground):after {
-  font-size: 12pt;  
-  content: attr(data-slide-num) "/" attr(data-total-slides);
-  position: absolute;
-  bottom: 20px;
-  right: 60px;
-  line-height: 1.9;
-}
+slides > slide:not(.nobackground):after {content: "}
 </style>
 
 ---.segue .dark .nobackground
