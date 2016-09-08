@@ -9,7 +9,7 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
----
+---.segue .dark .nobackground
 
 <!-- Limit image width and height -->
 <style type="text/css">
@@ -56,7 +56,7 @@ strong {
 slides > slide:not(.nobackground):after {content: "}
 </style>
 
-.segue .dark .nobackground
+<!-- ---.segue .dark .nobackground -->
 ## Tuumor-onkoviiruste avastamine
 
 
