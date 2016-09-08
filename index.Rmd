@@ -80,8 +80,9 @@ strong {
 
 ***=right
 
-<img width='380' src='http://cancerbio.files.wordpress.com/2011/05/peyton-rous.jpg' />
-<!-- ![rous]() -->
+<div style='text-align: center;'>
+    <img width='380' src='http://cancerbio.files.wordpress.com/2011/05/peyton-rous.jpg' />
+</div>
 
 <footer class="source">Pilt: The Biology of Cancer. Garland Science.
 </footer>
