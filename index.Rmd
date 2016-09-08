@@ -51,14 +51,7 @@ strong {
 }
 </style>
 
-<!-- Slide numbers -->
-<style>
-slides > slide:not(.nobackground):after {content: "}
-</style>
-
-<!-- ---.segue .dark .nobackground -->
 ## Tuumor-onkoviiruste avastamine
-
 
 --- &twocol
 ## Lindude leukeemia viraalne ülekanne
