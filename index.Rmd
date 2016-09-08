@@ -27,22 +27,8 @@ img {
   background-color: #CBE7A5; /* ; ; */ }
   background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
 }
-
-<!-- <style> .title-slide { -->
-<!--   background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/ -->
-<!-- } -->
-
-<!-- .title-slide hgroup > h1{ -->
-<!--  font-family: 'Oswald', 'Helvetica', sanserif;  -->
-<!-- } -->
-
-<!-- .title-slide hgroup > h1,  -->
-<!-- .title-slide hgroup > h2 { -->
-<!--   color: #535E43 ;  /* ; #EF5150*/ -->
-<!-- } -->
 </style>
 
-<!-- Center image on slide -->
 <!-- Center image on slide -->
 <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
 <script type='text/javascript'>
