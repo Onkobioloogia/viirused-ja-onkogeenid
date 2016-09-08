@@ -761,7 +761,7 @@ Leukeemiates ja lümfoomides
 - [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
 - [Metastaasid](http://tpall.github.io/Metastaas)
 - [Immuunsus](http://tpall.github.io/Immuunsus)
-- [Vahiravim](http://tpall.github.io/Vahiravim) 
+- [Vähiravim](http://tpall.github.io/Vahiravim) 
 
 
 
