@@ -67,22 +67,23 @@ strong {
 *** =right
 ![avl](http://www.nature.com/nrc/journal/v10/n12/images/nrc2961-f1.jpg)
 
----
-## Rousi kana sarkoomi mudeli skeem
+---&twocol
+## Rousi kana sarkoomi mudel
 
 - Aastatel 1909-11 katsetas **Francis Peyton Rous** (1879-1970) **kana sarkoomiga**.
 - Rous leidis, et seda **tuumorit on võimalik kanadel üle kanda vähi rakkudest sõltumatult**.
+-  Rous pälvis selle töö eest 1966. aastal Nobeli preemia.
+
+***=left
 
 ![rousmethod](http://o.quizlet.com/wwG.Q0fCHg8IoXzObiRWeg.png)
 
-<footer class="source">Pilt: The Biology of Cancer. Garland Science.
-</footer>
-
----
-## Rous pälvis selle töö eest 1966 aastal Nobeli preemia
+***=right
 
 ![rous](http://cancerbio.files.wordpress.com/2011/05/peyton-rous.jpg)
 
+<footer class="source">Pilt: The Biology of Cancer. Garland Science.
+</footer>
 
 --- 
 ## Peale esialgseid avastusi oli onkoviiruste alal tükk aega vaikus
