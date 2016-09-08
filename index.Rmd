@@ -131,17 +131,17 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
 - kõrge gükoositransport
 - tumorigeensus: moodustavad peremees-loomas tuumoreid 
 
----
-## Lihtsa retroviiruse struktuur 
-RSV virioon
+<!-- --- -->
+<!-- ## Lihtsa retroviiruse struktuur  -->
+<!-- RSV virioon -->
 
-![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png)
+<!-- ![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png) -->
 
----
-## Retroviirused transformeerivad kana ja hiire rakke
-Mehhanism: **insertsiooniline mutagenees** 
+<!-- --- -->
+<!-- ## Retroviirused transformeerivad kana ja hiire rakke -->
+<!-- Mehhanism: **insertsiooniline mutagenees**  -->
 
-![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png)
+<!-- ![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png) -->
 
 ---
 ## Inimesel ei ole lihtsaid retroviiruseid
@@ -232,7 +232,7 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ![HPV](http://www.uvm.edu/medicine/pathology/images/evans3rdsetofimages.jpg)
 
 ---
-## HPV16/18 seos emakakaela kasvajaid
+## HPV16/18 seos emakakaela kasvajatega
 
 ```{r cervical, echo=FALSE, fig.height = 6, fig.align = 'center', fig.cap= "Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011"}
 library(ggplot2)
@@ -240,10 +240,10 @@ library(ggthemes)
 cc <- read.csv("data/cervicalcancer.csv")
 ggplot(cc, aes(x = Age.Range, y = Female.Rates)) + 
   geom_bar(stat = 'identity') +
-  ylab("Intsidents 100,000 kohta (naised)") + xlab("Vanusegrupid") +
+  ylab("Intsidents 100,000 kohta (naised)") + 
+  xlab("Vanusegrupid") +
   ggtitle("Emakakaela kasvajad (C53), esmasleiud vanusegrupiti, UK, 2009-2011") + 
-  # guides(fill = FALSE) + 
-  theme(axis.text.x  = element_text(angle=90, vjust=0.5))
+  theme(axis.text.x  = element_text(angle = 90, vjust = 0.5))
 ```
 
 <footer class="source">Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.
@@ -272,52 +272,44 @@ Mehhanismid langevad kahte laia kategooriasse.
 ---
 ## src paradigma
 
-Põhinedes RSV võimel mõni päev peale nakatamist rakke transformeerida, töötati 1958 Temini a Rubini poolt välja nn **_focus assay_** 
-
+- Põhinedes RSV võimel mõni päev peale nakatamist rakke transformeerida, töötati 1958. Temini ja Rubini poolt välja nn **_focus assay_** 
 - Fookuste hulk oli otseses seoses rakkudele lisatud RSV hulgaga, seega oli RSV täiesti piisav peremeesraku transformeerimiseks.
 
----- bg:lavender
-
+--- 
 ## Paljunemine ja raku transformeerimine on viirusel eraldi funktsioonid
 
 - **raku fenotüüp on viiruse genoomi kontrolli all**, on olemas RSV mutandid, mis põhjustavad transformeerimisel rakkudel pikenenud fenotüübi;
-
 - **viiruse paljunemine pole raku transformatsiooniks vajalik**, replikatsiooni-defektne mutant transformeeris rakke ilma viirust tootmata;
+- **tekivad spontaansed mutandid mis replitseeruvad kuid enam ei transformeeri**, enamus RSV liine on mitte-defektsed (neil on genoomis olemas kõik viiruse replikatsiooniks vajalikud geenid, pluss onkogeen).
 
-- **tekivad spontaansed mutandid mis replitseeruvad kuid enam ei transformeeri**, enamus RSV liine on mitte-defektsed (neil on genoomis olemas kõik viiruse replikatsiooniks vajalikud geenid ja onkogeen).
-
-
----- bg:lavender
+----
 ## RSV geenide aktiivsus on vajalik transformatsiooniks
 
 - RSV-indutseeritud transformatsioon kandub järglasrakkudele edasi.
-
 - Kas tegemist on nn. *hit and run* mehhanismiga või on viiruse aktiivsus transformatsiooniks permanentselt vajalik
     - *hit and run*: transformeerunud fenotüüp kandub edasi juba viirusest sõltumatult.
-
-- Viirusgeenide vajalikkus selgus 1970 kui avaldati *Nature* artikkel kus kirjeldati  temperatuuritundliku (*ts*) RSV mutandiga tehtud katseid:
+- Viirusgeenide vajalikkus selgus 1970ndatel kui kirjeldati temperatuuritundliku (*ts*) RSV mutandiga tehtud katseid:
     - transformatsioon oli temperatuuritundlik, kuid viiruse replikatsioon mitte.
 
---- bg:lavender
+---
 ## ALV/RSV virion
 
 ![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png)
 
----- bg:lavender
-## Metsik tüüpi RSV vs. transformatsioonidefektne (td)
+---
+# Metsik tüüpi RSV vs. transformatsioonidefektne (td)
 
 td RSV genoom on väiksem
 
 ![src](http://www.nature.com/nrc/journal/v12/n9/images/nrc3320-f1.jpg)
 
---- bg:lavender
+---
 ## Lihtsa retroviiruse elutsükkel
 
 ![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png)
 
-
---- &twocol bg:lavender
-## RSV src pärineb raku genoomist
+---&twocol
+## RSV src pärineb peremeesraku genoomist
 
 ***=left
 Kasutades ära 1970 aastal RSV-st avastatud RNA sõltuvat DNA polümeraasi (pöördtranskriptaas) näidati, et selles viiruses olev transformeeriv src RNA järestus on pärit linnu genoomist.
