@@ -9,7 +9,7 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
----.segue .dark .nobackground
+--- .segue .dark .nobackground
 
 <!-- Limit image width and height -->
 <style type="text/css">
