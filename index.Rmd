@@ -407,18 +407,20 @@ Relationships between HPV integration, copy-number amplifications and gene expre
 - Together, these data highlight the significance of the synergy between HPV infection and an altered immune response in squamous cell carcinomas of the cervix.
 
 --- &twocol
-## SV40 kasutab samu mehhanisme mis toimivad spontaansetes kasvajates
-
+## SV40 kasutab sama mehhanismi mis spontaansetes kasvajates
 
 ***=left
 
-- The co-occurrence of PPP2R1A and TP53 mutations mirrors the dual mechanism of transformation by the SV40 oncovirus.
-- **Small T antigen binds PPP2R1A** to disrupt association with PP2A regulatory subunits 
-- and **large T antigen mediates TP53 inactivation**.
+- Endomeetriumi vähkides esinevad sageli koos PPP2R1A ja TP53 mutatsioonid.
+- PPP2R1A on PP2A fosfataasi regulatoorne subühik, PP2A inhibeerib kasvufaktorite signalisatsiooni.
+- TP53 on multifunktsionaalne tuumorsuppressorgeen.
+- SV40 _small T antigen_ seostub PPP2R1A valgule ja rikub PP2A regulatoorsete subühikute seostumise.
+- SV40 _large T antigen_ põhjustab TP53 inactivatiooni.
 
 ***=right
 
-![sv40T](assets/img/Gibson2016SuppFig12.png)
+![SV40](assets/img/Gibson2016SuppFig12.png)
+
 
 <footer class="source">Pilt: The genomic landscape and evolution of endometrial carcinoma progression and abdominopelvic metastasis. [doi:10.1038/ng.3602](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3602.html)
 </footer>
@@ -429,7 +431,7 @@ Relationships between HPV integration, copy-number amplifications and gene expre
 
 ***=left
 
-- EBV is found within malignant epithelial cells in 9% of gastric cancers.
+- EBV esineb umbes 9% gastric cancers.
 - Amplification of 9p locus containing JAK2, CD274 and PDCD1LG2 was enriched in the EBV subgroup (15% of tumours).
     - JAK2 encodes a receptor tyrosine kinase and potential therapeutic target. 
     - CD274 and PDCD1LG2 encode PD-L1 and PD-L2, immunosuppressant proteins.
