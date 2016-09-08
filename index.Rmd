@@ -43,11 +43,11 @@ img {
 </style>
 
 <!-- Center image on slide -->
-<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js">
-</script>
-<script type="text/javascript">
+<!-- Center image on slide -->
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+<script type='text/javascript'>
 $(function() {
-  $("p:has(img)").addClass('centered');
+    $("p:has(img)").addClass('centered');
 });
 </script>
 
