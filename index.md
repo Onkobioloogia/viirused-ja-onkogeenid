@@ -311,7 +311,7 @@ Kasutades ära 1970 aastal RSV-st avastatud RNA sõltuvat DNA polümeraasi (pö�
 ![csrc](http://o.quizlet.com/Eby4zdSHLvqEuPGeLks7bA.png)
 
 
---- bg:lavender
+---
 
 # Retroviiruste onkovalkude funktsionaalsed klassid
 Klass | Näide | Viirus
@@ -327,7 +327,7 @@ mitte-retseptor TK| Src, tsütoplasma kinaas | Rousi sarkoomiviirus
 seriin/treoniin kinaas | Akt, tsütoplasma kinaas | Akt8 hiire thymoma virus
                         | Mos, tsütoplasma kinaas | Moloney hiire sarkoomiviirus
 transkriptsiooni regulaator |  Jun, AP1 TF kompleks | linnu sarkoomiviirus 17
-                          | Fos, AP1 TF kompleks | Finkel–Biskis–Jinkins hiire sarkoomiviirus
+                          | Fos, AP1 TF kompleks | FBJ hiire sarkoomiviirus
                           | Myc, transkriptsioonifaktor | linnu müelotsütomatoosi viirus MC29
 lipiidikinaas | Pi3k | linnu sarkoomiviirus 16
 
