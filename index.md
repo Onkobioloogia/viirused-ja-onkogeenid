@@ -50,19 +50,19 @@ $(function() {
 });
 </script>
 
-<!-- Italic -->
-<!-- <style> -->
-<!-- em { -->
-<!--   font-style: italic -->
-<!-- } -->
-<!-- </style> -->
+Italic
+<style>
+em {
+  font-style: italic
+}
+</style>
 
-<!-- Bold -->
-<!-- <style> -->
-<!-- strong { -->
-<!--   font-weight: bold; -->
-<!-- } -->
-<!-- </style> -->
+Bold
+<style>
+strong {
+  font-weight: bold;
+}
+</style>
 
 
 ---.segue .dark .nobackground
