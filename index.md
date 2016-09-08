@@ -317,7 +317,7 @@ Kasutades ära 1970 aastal RSV-st avastatud RNA sõltuvat DNA polümeraasi (pö�
 Klass | Näide | Viirus
 -----------------|----------|--------------
 kasvufaktor | Sis (PDGFB) | ahvi sarkoomiviirus
-retseptor TK | ErbB (EGFR) | linnu erütroblastoosi viirus
+retseptor-türosiinkinaas | ErbB (EGFR) | linnu erütroblastoosi viirus
 hormoonretseptor | ErbA (THRA) | linnu erütroblastoosi viirus
 G valk | Ha-ras, GTPase | Harvey sarkoomiviirus
           | Ki-ras, GTPase|  Kirsten sarkoomiviirus
