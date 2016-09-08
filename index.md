@@ -234,23 +234,7 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ---
 ## HPV16/18 põhjustab emakakaela kasvajaid
 
-
-```
-## Warning in file(file, "rt"): cannot open file 'cervicalcancer.csv': No such
-## file or directory
-```
-
-```
-## Error in file(file, "rt"): cannot open the connection
-```
-
-```
-## Warning: `stat` is deprecated
-```
-
-```
-## Error in ggplot(data, aesthetics, environment = env): object 'cc' not found
-```
+<img src="assets/fig/cervical-1.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
 
 <footer class="source">Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.
 </footer>
