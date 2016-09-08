@@ -88,21 +88,21 @@ strong {
 </footer>
 
 --- 
-## Peale esialgseid avastusi oli onkoviiruste alal tükk aega vaikus
+## Vähk võib olla nakkav
+Mitmed uuringud näitasid loomadel vähi seost viirusnakkustega
 
-- 1930-ndatel kirjeldati Richard E. Shope (1901-1966) and E. Weston Hursti (1900-1980) poolt **küülikute papilloomiviirus** ja John Joseph Bittneri poolt (1904-1961) **hiirte piimanäärme viirus** (*mouse mammary tumor virus*, *MMTV*).
-
-- 1950-ndatel avastati Ludwig Grossi (1904-1999) poolt **hiirte leukeemiaviirus** (retroviirus) ja **hiirte polüoomiviirus**
+- 1930-ndatel kirjeldati Richard E. Shope (1901-1966) and E. Weston Hursti (1900-1980) poolt **küülikute papilloomiviirus** 
+- John Joseph Bittneri poolt (1904-1961) **hiirte piimanäärme viirus** (*mouse mammary tumor virus*, *MMTV*).
+- 1950-ndatel avastati Ludwig Grossi (1904-1999) poolt **hiirte leukeemiaviirus** (retroviirus) ja **hiirte polüoomiviirus**.
 
 --- &twocol
+## Kas vähk on viirushaigus?
 
-## Vähk võib olla nakkav
-
-*** =left
+***=left
 ![lifemag](http://33.media.tumblr.com/tumblr_m5tnjt5vDR1qbz9meo1_500.jpg)
 
-*** =right
-Möödunud sajandi 50-ndatel aastatel, kui oli hiirte peal leitud seosed leukeemia ja viirusnakkuse vahel, tekkis **hüpotees, et vähk on viirushaigus**.
+***=right
+Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile, et **vähk on viirushaigus**.
 
 ---.segue .dark .nobackground
 ## Viirused põhjustavad rakkude transformatsiooni
