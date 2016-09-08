@@ -232,7 +232,7 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ![HPV](http://www.uvm.edu/medicine/pathology/images/evans3rdsetofimages.jpg)
 
 ---
-## HPV16/18 põhjustab emakakaela kasvajaid
+## HPV16/18 seos emakakaela kasvajaid
 
 <img src="assets/fig/cervical-1.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
 
