@@ -132,10 +132,21 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
 - tumorigeensus: moodustavad peremees-loomas tuumoreid 
 
 ---
+## Lihtsa retroviiruse struktuur 
+RSV virioon
+
+![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png)
+
+---
+## Retroviirused transformeerivad kana ja hiire rakke
+Mehhanism: **insertsiooniline mutagenees** 
+
+![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png)
+
+---
 ## Inimesel ei ole lihtsaid retroviiruseid
 
 Inimesel otsiti vähkidest pikalt RSV sarnast lihtsat retroviirust, kuid vähiga seoses leiti ainult komplekssed retroviirused nagu HTLV-I ja HIV-1/-2.
-
 
 ---
 ## Vähki indutseeriva toimega on väga erinevad viirused
@@ -178,6 +189,13 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 
 <q> Inimese kasvajaviirused on kõik eri klassidest ja hõlmavad kogu viirus-spektrit</q>
 
+---
+## Inimese vähid kus esineb kõrge viirusekspressioon
+
+![viirused](ncomms3513-f1.jpg)
+
+<footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
+</footer>
 
 ---
 ## Epstein-Barri viirus (EBV)
@@ -200,6 +218,14 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 - HPV-16/18, C hepatiidi, Kaposi sarkoomi ja Merkeli rakkude polüoomiviirus identifitseeriti kasvajates molekulaarbioloogia meetodeid kasutades.
 
 ---
+## Viiruse integratsioon on seotud märklaudgeenide ekspressiooni muutustega
+
+![viirusexp](http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg)
+
+<footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
+</footer>
+
+---
 ## HPV ja emakakaelavähk
 
 - 1980-ndatel oli teada, et inimese papilloomiviirused põhjustavad kondüloomide (*genital warts*) teket.
@@ -207,6 +233,22 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 - Oma hüpoteesi kontrollimiseks **hübridiseeris ta papilloomiviiruse DNA emakakaelavähi DNA-le.**
 
 ![HPV](http://www.uvm.edu/medicine/pathology/images/evans3rdsetofimages.jpg)
+
+---
+## HPV16/18 põhjustab emakakaela kasvajaid
+
+```{r cervical, echo=FALSE,  fig.align = 'center', fig.cap= "Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011"}
+library(ggplot2)
+library(ggthemes)
+cc <- read.csv("cervicalcancer.csv")
+qplot(x=Age.Range,y=Female.Rates, data=cc, stat="identity", geom="bar", fill="red") + ylab("Intsidents 100,000 kohta (naised)") + xlab("Vanusegrupid") +
+  ggtitle("Emakakaela kasvajad (C53), esmasleiud vanusegrupiti, UK, 2009-2011")+ guides(fill=FALSE) + 
+  theme(axis.text.x  = element_text(angle=90, vjust=0.5)) +
+  scale_fill_colorblind()
+```
+
+<footer class="source">Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.
+</footer>
 
 ---
 ## Kaposi sarkoom ja AIDS
@@ -228,7 +270,7 @@ Mehhanismid langevad kahte laia kategooriasse.
 
 - **kaudne mehhanism**, viirusinfektsioon põhjustab põletikku. Krooniline põletik tõstab vähitekke riski selles koes.
 
---- bg:lavender
+---
 ## src paradigma
 
 Põhinedes RSV võimel mõni päev peale nakatamist rakke transformeerida, töötati 1958 Temini a Rubini poolt välja nn **_focus assay_** 
