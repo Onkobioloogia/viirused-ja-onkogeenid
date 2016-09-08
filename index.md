@@ -12,44 +12,44 @@ knit        : slidify::knit2slides
 ---
 
 <!-- Limit image width and height -->
-<style type="text/css">
-img {
-  max-height: 480px;
-  max-width: 600px;
-}
-</style>
+<!-- <style type="text/css"> -->
+<!-- img { -->
+<!--   max-height: 480px; -->
+<!--   max-width: 600px; -->
+<!-- } -->
+<!-- </style> -->
 
-<style> .title-slide {
-  background-image:url(http://33.media.tumblr.com/tumblr_m5tnjt5vDR1qbz9meo1_500.jpg);
-  background-repeat: no-repeat;
-  background-position: 90% 5%;
-  background-size: 46%;
-  background-color: #CBE7A5; /* ; ; */ }
-  background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
-}
-</style>
+<!-- <style> .title-slide { -->
+<!--   background-image:url(http://33.media.tumblr.com/tumblr_m5tnjt5vDR1qbz9meo1_500.jpg); -->
+<!--   background-repeat: no-repeat; -->
+<!--   background-position: 90% 5%; -->
+<!--   background-size: 46%; -->
+<!--   background-color: #CBE7A5; /* ; ; */ } -->
+<!--   background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/ -->
+<!-- } -->
+<!-- </style> -->
 
 <!-- Center image on slide -->
-<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
-<script type='text/javascript'>
-$(function() {
-    $("p:has(img)").addClass('centered');
-});
-</script>
+<!-- <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script> -->
+<!-- <script type='text/javascript'> -->
+<!-- $(function() { -->
+<!--     $("p:has(img)").addClass('centered'); -->
+<!-- }); -->
+<!-- </script> -->
 
-<!-- Italic -->
-<style>
-em {
-  font-style: italic
-}
-</style>
+<!-- <!-- Italic --> -->
+<!-- <style> -->
+<!-- em { -->
+<!--   font-style: italic -->
+<!-- } -->
+<!-- </style> -->
 
 <!-- Bold -->
-<style>
-strong {
-  font-weight: bold;
-}
-</style>
+<!-- <style> -->
+<!-- strong { -->
+<!--   font-weight: bold; -->
+<!-- } -->
+<!-- </style> -->
 
 
 ---.segue .dark .nobackground
