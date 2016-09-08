@@ -110,19 +110,18 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
 --- &twocol bg:lavender
 ## Rousi sarkoomiviirus muudab fibroblaste
 
-1950-ndate lõpus ja 1960-ndatel uurisid Harry Rubin ja Howard Temin **Rousi sarkoomiviirust (RSV)** koekultuuris, kasutades kana fibroblaste (CEF)
+1950-ndate lõpus ja 1960-ndatel uurisid Harry Rubin ja Howard Temin **Rousi sarkoomiviirust (RSV)** koekultuuris, kasutades kana fibroblaste (**CEF**)
 
 *** =left
 
 ![rsv](http://o.quizlet.com/6TOz6bZnsMrOKfaPM2MXXQ.png)
 
 *** =right
-Tähelepanekud:
+
 - RSV nakatatud CEF-id moodustavad **kolooniad** (*foci/clusters*)
 - kolooniaid moodustavad rakud on muutunud morfoloogiaga (**trasformeerunud**) ja sarnanevad sarkoomi rakkudega
 
----- bg:lavender
-
+---
 ## Transformeerunud rakkude iseloomulikud omadused
 
 - kontakt-inhibitsiooni kadumine
@@ -132,9 +131,13 @@ Tähelepanekud:
 - kõrge gükoositransport
 - tumorigeensus: moodustavad peremees-loomas tuumoreid 
 
+---
+## Inimesel ei ole lihtsaid retroviiruseid
+
+Inimesel otsiti vähkidest pikalt RSV sarnast lihtsat retroviirust, kuid vähiga seoses leiti ainult komplekssed retroviirused nagu HTLV-I ja HIV-1/-2.
 
 
---- bg:lavender
+---
 ## Vähki indutseeriva toimega on väga erinevad viirused
 
 Tuumorviirus | Viirusperekond | Genoomi suurus (kb)
@@ -149,11 +152,6 @@ Shope fibroomiviirus | poxviirused | 160
 RNA viirused| 
 Rousi sarkoomiviirus (RSV) | retroviirused | 9
 inimese T-raku leukeemia viirus (HTLV-I) | retroviirus | 9
-
---- bg:lavender
-
-<q> Inimesel otsiti vähkidest pikalt RSV sarnast lihtsat retroviirust, kuid vähiga seoses leiti ainult komplekssed retroviirused nagu HTLV-I ja HIV-1/-2. </q>
-
 
 ---
 ## Seitse viirust
@@ -176,7 +174,7 @@ C-hepatiidi viirus (HCV) | pluss-ahelaline ssRNA flaviviirus | maksa kartsinoomi
 Kaposi sarkoomi herpesviirus (KSHV; ; *human herpesvirus 8*) | dsDNA herpesviirus | Kaposi sarkoom, kehaõõne-lümfoom | 1994
 Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsinoom | 2008
 
---- bg:lightsalmon
+---
 
 <q> Inimese kasvajaviirused on kõik eri klassidest ja hõlmavad kogu viirus-spektrit</q>
 
