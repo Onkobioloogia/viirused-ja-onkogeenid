@@ -744,24 +744,24 @@ Leukeemiates ja lümfoomides
 
 ***=left 
 
-1. [Sissejuhatav loeng](http://tpall.github.io/onkobioloogia)
-2. [Viirused ja onkogeenid](http://tpall.github.io/viirused-ja-onkogeenid)
-3. [Retseptorid](http://tpall.github.io/Retseptorid)
-4. [Signaalirajad](http://tpall.github.io/Signaalirajad)
-5. [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
-6. [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
+- [Sissejuhatav loeng](http://tpall.github.io/onkobioloogia)
+- [Viirused ja onkogeenid](http://tpall.github.io/viirused-ja-onkogeenid)
+- [Retseptorid](http://tpall.github.io/Retseptorid)
+- [Signaalirajad](http://tpall.github.io/Signaalirajad)
+- [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
+- [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
 
 
 ***=right 
 
-7. [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
-8. [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
-9. [Tumorigenees](http://tpall.github.io/Tumorigenees)
-10. [Genoomiterviklikkus](http://tpall.github.io/Genoomiterviklikkus)
-11. [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
-12. [Metastaasid](http://tpall.github.io/Metastaas)
-13. [Immuunsus](http://tpall.github.io/Immuunsus)
-14. [Vähiravim](http://tpall.github.io/Vahiravim) 
+- [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
+- [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
+- [Tumorigenees](http://tpall.github.io/Tumorigenees)
+- [Genoomiterviklikkus](http://tpall.github.io/Genoomiterviklikkus)
+- [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
+- [Metastaasid](http://tpall.github.io/Metastaas)
+- [Immuunsus](http://tpall.github.io/Immuunsus)
+- [Vähiravim](http://tpall.github.io/Vahiravim) 
 
 
 
