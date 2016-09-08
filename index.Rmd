@@ -331,14 +331,14 @@ retseptor TK | ErbB (EGFR) | linnu erütroblastoosi viirus
 hormoonretseptor | ErbA (THRA) | linnu erütroblastoosi viirus
 G valk | Ha-ras, GTPase | Harvey sarkoomiviirus
           | Ki-ras, GTPase|  Kirsten sarkoomiviirus
-adaptorvalk | Crk, modulaarne signaali link CT10 | linnu sarkoomiviirus
+adaptorvalk | Crk, adaptorvalk | linnu sarkoomiviirus
 mitte-retseptor TK| Src, tsütoplasma kinaas | Rousi sarkoomiviirus
                             | Abl, tsütoplasma kinaas | Abelsoni hiire leukemia virus
 seriin/treoniin kinaas | Akt, tsütoplasma kinaas | Akt8 hiire thymoma virus
                         | Mos, tsütoplasma kinaas | Moloney hiire sarkoomiviirus
-transkriptsiooni regulaator |  Jun, AP1 TF kompleks | linnu sarkoomiviirus 17
-                          | Fos, AP1 TF kompleks | FBJ hiire sarkoomiviirus
-                          | Myc, transkriptsioonifaktor | linnu müelotsütomatoosi viirus MC29
+transkriptsiooni regulaator |  Jun, AP1 trans.fakt. | linnu sarkoomiviirus 17
+                          | Fos, AP1 trans.fakt. | FBJ hiire sarkoomiviirus
+                          | Myc, trans.fakt. | linnu müelotsütomatoosi viirus MC29
 lipiidikinaas | Pi3k | linnu sarkoomiviirus 16
 
 ---
