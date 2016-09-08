@@ -56,7 +56,7 @@ strong {
 slides > slide:not(.nobackground):after {content: "}
 </style>
 
----.segue .dark .nobackground
+.segue .dark .nobackground
 ## Tuumor-onkoviiruste avastamine
 
 
