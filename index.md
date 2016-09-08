@@ -729,10 +729,8 @@ Leukeemiates ja lümfoomides
 - **Onkogeen** on geen mis võib potentsiaalselt vähki tekitada ja vähkides on nad muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
 - **Proto-onkogeen** on normaalne geen mis võib muutuda onkogeeniks.
 
----
+---&twocol 
 ## Lingid loengutele
-
---- &twocol 
 
 ***=left 
 
