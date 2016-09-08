@@ -183,7 +183,7 @@ B-hepatiidi viirus (HBV) | ss/dsDNA hepadenoviirus | maksa kartsinoomid | 1965
 inimese T-lümfotroopne viirus I (HTLV-I) | +ssRNA retroviirus | T-rakuline leukeemia | 1980
 inimese papilloomiviirus (HPV-16,-18) | dsDNA papilloomiviirus | emakakaela-, peenise-, anogenitaal- ja  pea-kaela kasvajad | 1983-84
 C-hepatiidi viirus (HCV) | +ssRNA flaviviirus | maksa kartsinoomid ja lümfoomid | 1989
-Kaposi sarkoomi herpesviirus (KSHV; HHV8) | dsDNA herpesviirus | Kaposi sarkoom, kehaõõne-lümfoom | 1994
+Kaposi sarkoomi herpesviirus (KSHV) | dsDNA herpesviirus | Kaposi sarkoom, kehaõõne-lümfoom | 1994
 Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsinoom | 2008
 
 ---
