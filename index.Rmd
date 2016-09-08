@@ -43,7 +43,8 @@ img {
 </style>
 
 <!-- Center image on slide -->
-<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js">
+</script>
 <script type="text/javascript">
 $(function() {
   $("p:has(img)").addClass('centered');
@@ -86,7 +87,7 @@ strong {
 - Aastatel 1909-11 katsetas **Francis Peyton Rous** (1879-1970) **kana sarkoomiga**.
 - Rous leidis, et seda **tuumorit on võimalik kanadel üle kanda vähi rakkudest sõltumatult**.
 
-![rousmethod](http://o.quizlet.com/wwG.Q0fCHg8IoXzObiRWeg.png){: .center-image }
+![rousmethod](http://o.quizlet.com/wwG.Q0fCHg8IoXzObiRWeg.png)
 
 <footer class="source">Pilt: The Biology of Cancer. Garland Science.
 </footer>
