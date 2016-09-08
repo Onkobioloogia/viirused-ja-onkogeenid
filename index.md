@@ -78,7 +78,7 @@ strong {
 
 
 *** =right
-![avl](http://www.nature.com/nrc/journal/v10/n12/images/nrc2961-f1.jpg)
+->![avl](http://www.nature.com/nrc/journal/v10/n12/images/nrc2961-f1.jpg)<-
 
 ---
 ## Rousi kana sarkoomi mudeli skeem
