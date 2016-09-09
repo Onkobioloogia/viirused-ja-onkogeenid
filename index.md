@@ -245,6 +245,15 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
     <img width='380' src='http://www.uvm.edu/medicine/pathology/images/evans3rdsetofimages.jpg' />
 </div>
 
+---
+## HPV16/18 seos emakakaela kasvajatega
+
+<img src="assets/fig/cervical-1.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
+
+<footer class="source">Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.
+</footer>
+
+
 ---.segue .dark .nobackground
 ## Viiruste vähimehhanismid
 
@@ -275,14 +284,6 @@ HPV genoomi integratsioonikohad kolokaliseeruvad DNA koopia-arvu muutustega pea-
 </div>
 
 <footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
-</footer>
-
----
-## HPV16/18 seos emakakaela kasvajatega
-
-<img src="assets/fig/cervical-1.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
-
-<footer class="source">Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.
 </footer>
 
 ---&twocol
