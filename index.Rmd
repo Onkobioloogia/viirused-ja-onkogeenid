@@ -203,7 +203,9 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ---
 ## Inimese vähid kus esineb kõrge viirusekspressioon
 
-![viirused](assets/img/ncomms3513-f1.jpg)
+<div style='text-align: center;'>
+    <img width='600' src='assets/img/ncomms3513-f1.jpg' />
+</div>
 
 <footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
 </footer>
@@ -219,7 +221,9 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 - **Sporaadiline Burkitti lümfoom** esineb arenenud maades.
     - EBV negatiivne, kuid sisaldab iseloomulikke MYC-i translokatsioone. 
 
-![EBV](http://artsandsciences.colorado.edu/magazine/images/2011_winter/features_cancer_cells.jpg)
+<div style='text-align: center;'>
+    <img width='380' src='http://artsandsciences.colorado.edu/magazine/images/2011_winter/features_cancer_cells.jpg' />
+</div>
 
 ---
 ## Kasvajates reeglina viiruspartikleid ei leita
@@ -231,7 +235,9 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ---
 ## Viiruse integratsioon on seotud märklaudgeenide ekspressiooni muutustega
 
-![viirusexp](http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg)
+<div style='text-align: center;'>
+    <img width='380' src='http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg' />
+</div>
 
 <footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
 </footer>
@@ -243,7 +249,9 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 -  Selle põhal oletas Harald zur Hausen, et HPV võib olla seotud ka emakakaela vähi tekkega.
 - Oma hüpoteesi kontrollimiseks **hübridiseeris ta papilloomiviiruse DNA emakakaelavähi DNA-le.**
 
-![HPV](http://www.uvm.edu/medicine/pathology/images/evans3rdsetofimages.jpg)
+<div style='text-align: center;'>
+    <img width='380' src='http://www.uvm.edu/medicine/pathology/images/evans3rdsetofimages.jpg' />
+</div>
 
 ---
 ## HPV16/18 seos emakakaela kasvajatega
