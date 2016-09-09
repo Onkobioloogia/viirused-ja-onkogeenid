@@ -729,7 +729,6 @@ Kahte tüüpi amplifikatsioone
 </div>
 
 --- &twocol
-
 ## Sagedamini amplifitseerunud genoomipiirkonnad
 
 ***=left
@@ -772,29 +771,31 @@ t(2;8)(p12;q24) | IGK/MYC | 10%
 t(8;22)(q24;q11) | IGL/MYC | 10 %
 
 ***=right
-
+<div style='text-align: center;'>
 <img src="http://www.nature.com/nature/journal/v421/n6921/images/nature01409-f3.2.jpg" style="width:400px">
+</div>
 
 ---
 ## EGFR ligand-sõltumatu signalisatsioon
-
 Mao- ja rinna kartsinoomides, glioblastoomides
 
-![EGFRvIII](http://www.cell.com/cms/attachment/2009273090/2032282083/gr1.jpg)
+<div style='text-align: center;'>
+    <img width='600' src='http://www.cell.com/cms/attachment/2009273090/2032282083/gr1.jpg' />
+</div>
 
 ---
 ## BCR-ABL translokatsioon
-
 Leukeemiates ja lümfoomides
 
-![bcrabl](http://img.medscape.com/fullsize/migrated/580/426/era580426.fig1.gif)
-
+<div style='text-align: center;'>
+    <img width='600' src='http://img.medscape.com/fullsize/migrated/580/426/era580426.fig1.gif' />
+</div>
 
 ---
 ## Kokkuvõte
 
-- **Onkogeen** on geen mis võib potentsiaalselt vähki tekitada ja vähkides on nad muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
-- **Proto-onkogeen** on normaalne geen mis võib muutuda onkogeeniks.
+- Onkogeen on geen mis võib potentsiaalselt vähki tekitada ja vähkides on nad muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
+- Proto-onkogeen on normaalne geen mis võib muutuda onkogeeniks.
 
 ---&twocol 
 ## Lingid loengutele
