@@ -235,16 +235,6 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 - HPV-16/18, C hepatiidi, Kaposi sarkoomi ja Merkeli rakkude polüoomiviirus identifitseeriti kasvajates **molekulaarbioloogia meetodeid** kasutades.
 
 ---
-## Viiruse integratsioon on seotud märklaudgeenide ekspressiooni muutustega
-
-<div style='text-align: center;'>
-    <img width='600' src='http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg' />
-</div>
-
-<footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
-</footer>
-
----
 ## HPV ja emakakaelavähk
 
 - 1980-ndatel oli teada, et inimese papilloomiviirused põhjustavad kondüloomide (*genital warts*) teket.
@@ -254,6 +244,28 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 <div style='text-align: center;'>
     <img width='380' src='http://www.uvm.edu/medicine/pathology/images/evans3rdsetofimages.jpg' />
 </div>
+
+---
+## Viiruse integratsioon on seotud märklaudgeenide ekspressiooni muutustega
+
+
+<div style='text-align: center;'>
+    <img width='600' src='http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg' />
+</div>
+
+<footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
+</footer>
+
+---
+## Viiruse integratsioon on seotud koopiaarvu muutustega
+HPV genoomi integratsioonikohad kolokaliseeruvad DNA koopia-arvu muutustega pea-kaela kasvajates (HNSC).
+
+<div style='text-align: center;'>
+    <img width='600' src='http://www.nature.com/article-assets/npg/ncomms/2013/131001/ncomms3513/images_hires/w926/ncomms3513-f4.jpg' />
+</div>
+
+<footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
+</footer>
 
 ---
 ## HPV16/18 seos emakakaela kasvajatega
