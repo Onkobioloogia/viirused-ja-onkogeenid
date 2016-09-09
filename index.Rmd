@@ -128,17 +128,6 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
 - kõrge gükoositransport
 - tumorigeensus: moodustavad peremees-loomas tuumoreid 
 
-<!-- --- -->
-<!-- ## Lihtsa retroviiruse struktuur  -->
-<!-- RSV virioon -->
-
-<!-- ![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png) -->
-
-<!-- --- -->
-<!-- ## Retroviirused transformeerivad kana ja hiire rakke -->
-<!-- Mehhanism: **insertsiooniline mutagenees**  -->
-
-<!-- ![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png) -->
 ---
 ## ALV/RSV virion
 
