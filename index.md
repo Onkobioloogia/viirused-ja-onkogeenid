@@ -569,7 +569,7 @@ Katsusaburō Yamagiwa
 
 - Transformeerunud rakkude genoomse DNA fragmentide transfekteerimisel läheb rakku sisse 0.1% doonor DNA-d.
 
-- Tõenäosus, et kaks lingitud geeni satuvad ühte rakku on $$10^{-3} \times 10^{-3} = 10^{-6} $$ 
+- Tõenäosus, et kaks lingitud geeni satuvad ühte rakku on $$ 10^{-3} \times 10^{-3} = 10^{-6} $$ 
 
 <q>Kokkuvõte: onkogeenid tekivad ka viirustest sõltumatult.</q>
 
