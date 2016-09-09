@@ -131,20 +131,26 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
 ---
 ## ALV/RSV virion
 
-![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png)
+<div style='text-align: center;'>
+    <img width='380' src='http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png' />
+</div>
 
 ---
 ## Metsik tüüpi RSV vs. transformatsioonidefektne (td)
-td RSV genoom on väiksem
+- td RSV genoom on väiksem.
 
-![src](http://www.nature.com/nrc/journal/v12/n9/images/nrc3320-f1.jpg)
+<div style='text-align: center;'>
+    <img width='600' src='http://www.nature.com/nrc/journal/v12/n9/images/nrc3320-f1.jpg' />
+</div>
 
 ---
 ## Lihtsa retroviiruse elutsükkel
-Retroviirused transformeerivad kana ja hiire rakke
-Mehhanism: **insertsiooniline mutagenees**
+- Retroviirused transformeerivad kana ja hiire rakke.
+- Mehhanism: **insertsiooniline mutagenees**.
 
-![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png)
+<div style='text-align: center;'>
+    <img width='600' src='http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png' />
+</div>
 
 ---
 ## Inimesel ei ole lihtsaid retroviiruseid
