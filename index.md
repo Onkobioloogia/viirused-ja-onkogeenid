@@ -247,6 +247,7 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 
 ---
 ## HPV16/18 seos emakakaela kasvajatega
+Population studies provide support for the concept that HPV infections precede the development of cervical cancer by some decades.
 
 <img src="assets/fig/cervical-1.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
 
