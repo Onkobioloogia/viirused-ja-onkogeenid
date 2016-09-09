@@ -501,7 +501,9 @@ CycD1 | F-MLV | T-raku lümfoom | hiir | G1 tsükliin
 - Akr liini hiirtel on kaks lookust kuhu on integreerunud replikatsiooni-kompetentne MLV
 - MLV produktsioon viib leukeemia tekkele.
 
-<img src="http://www.jimmunol.org/content/192/4/1343/F1.large.jpg" style="width:460px;" \>
+<div style='text-align: center;'>
+    <img width='600' src='http://www.jimmunol.org/content/192/4/1343/F1.large.jpg' />
+</div>
 
 <footer class="source">Pilt: ~5% hiire genoomist sisaldab endogeenseid retroviirus järjestusi. [Endogenous Retroviruses and the Development of Cancer](http://www.jimmunol.org/content/192/4/1343.full)
 </footer>
@@ -523,16 +525,21 @@ CycD1 | F-MLV | T-raku lümfoom | hiir | G1 tsükliin
 - Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine.
 - Sellisteks kasvukontrolli geenideks võivad olla normaalsed raku geenid, sarnaselt retroviirustest leitud proto-onkogeenidega.
 
-![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
+<div style='text-align: center;'>
+    <img width='600' src='http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg' />
+</div>
+
+<footer class="source">Pilt:artrepublic.com
+</footer>
 
 --- &twocol
 ## Keemilised kartsinogeenid kutsuvad esile kasvajaid
 
 ***=left
 
-![KY](http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yamagiwa.JPG/300px-Yamagiwa.JPG)
-
-
+<div style='text-align: center;'>
+    <img width='380' src='http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yamagiwa.JPG/300px-Yamagiwa.JPG' />
+</div>
 Katsusaburō Yamagiwa
 
 ***=right
@@ -560,13 +567,14 @@ Katsusaburō Yamagiwa
 
 ***=right
 
-<img src="http://www.ncbi.nlm.nih.gov/books/NBK190612/bin/ch6fu3.jpg" style="width:300px;"/>
+<div style='text-align: center;'>
+    <img width='380' src='http://www.ncbi.nlm.nih.gov/books/NBK190612/bin/ch6fu3.jpg' />
+</div>
 
 <footer class="source">Pilt: Sue Weil, Memorial Sloan-Kettering Cancer Center
 </footer>
 
 --- 
-
 ## 1 onkogeen = 1 transformeerunud rakk/koloonia
 
 - Transformeerunud rakkude genoomse DNA fragmentide transfekteerimisel läheb rakku sisse 0.1% doonor DNA-d.
@@ -582,7 +590,9 @@ Katsusaburō Yamagiwa
 
 ***=right
 
-![parada](http://o.quizlet.com/xr9WvHaD36Lp0zMgy4XrtQ_m.png)
+<div style='text-align: center;'>
+    <img width='380' src='http://o.quizlet.com/xr9WvHaD36Lp0zMgy4XrtQ_m.png' />
+</div>
 
 ----
 ## Inimese vähkide retroviraalsed onkogeenid
@@ -614,7 +624,9 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 
 ***=right
 
-<img src="http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png" style="width:320px;"/>
+<div style='text-align: center;'>
+    <img width='380' src='http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png' />
+</div>
 
 <footer class="source">Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235: 177-182.
 </footer>
