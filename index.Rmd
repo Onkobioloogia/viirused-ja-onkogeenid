@@ -402,85 +402,85 @@ K-ras |F-MLV | T-raku lümfoom | hiir | väike G valk
 CycD1 | F-MLV | T-raku lümfoom | hiir | G1 tsükliin
 
 
----
-## Viiruse onkogeenid: RNA versus DNA viirused
+<!-- --- -->
+<!-- ## Viiruse onkogeenid: RNA versus DNA viirused -->
 
-- Retroviiruste onkogeenid on rakulist päritolu ja peamiselt dereguleerivad signalisatsiooni ja transkriptsiooni kontrolli (SRC, MYC, RAS, ERBB).
+<!-- - Retroviiruste onkogeenid on rakulist päritolu ja peamiselt dereguleerivad signalisatsiooni ja transkriptsiooni kontrolli (SRC, MYC, RAS, ERBB). -->
 
-- Onkogeensed DNA viirustel on aga genoomis isiklikud onkogeenid: HPV E6, SV40 LT (*large T*).
+<!-- - Onkogeensed DNA viirustel on aga genoomis isiklikud onkogeenid: HPV E6, SV40 LT (*large T*). -->
 
-- **DNA viiruste onkogeenid toimivad rakuliste kontrollmehhanismide blokeerimise teel**, nt. HPV E6 ja SV40 LT inhibeerivad p53, HPV E7 inhibeerib RB-d.  
+<!-- - **DNA viiruste onkogeenid toimivad rakuliste kontrollmehhanismide blokeerimise teel**, nt. HPV E6 ja SV40 LT inhibeerivad p53, HPV E7 inhibeerib RB-d.   -->
 
---- &twocol 
-## Viiruse onkovalkude päritolu
+<!-- --- &twocol  -->
+<!-- ## Viiruse onkovalkude päritolu -->
 
-Kas (i) viirus paneb rakulise jagunemise masinavärgi tööle selleks, et paljuneda või (ii) üritab immunsüsteemile märkamatuks jääda.
+<!-- Kas (i) viirus paneb rakulise jagunemise masinavärgi tööle selleks, et paljuneda või (ii) üritab immunsüsteemile märkamatuks jääda. -->
 
-***=left
-![onc](http://www.nature.com/nrc/journal/v10/n12/images/nrc2961-f3.jpg)
+<!-- ***=left -->
+<!-- ![onc](http://www.nature.com/nrc/journal/v10/n12/images/nrc2961-f3.jpg) -->
 
-***=right
-- Viiruse onkogeenid inhibeerivad raku tuumor-supressor funktsioone (**piiratud ressursid**), et tagada viiruse paljunemine ja vähi teke on tingitud juhuslikest mutatsioonidest.
-- Viiruse strateegia on peremehe kaasasündinud (*innate*) immuunsuse vaiki hoidmine: tuumorsuppressorid on hõivatud ka kaasasündinud immuunsuses.
+<!-- ***=right -->
+<!-- - Viiruse onkogeenid inhibeerivad raku tuumor-supressor funktsioone (**piiratud ressursid**), et tagada viiruse paljunemine ja vähi teke on tingitud juhuslikest mutatsioonidest. -->
+<!-- - Viiruse strateegia on peremehe kaasasündinud (*innate*) immuunsuse vaiki hoidmine: tuumorsuppressorid on hõivatud ka kaasasündinud immuunsuses. -->
 
---- &twocol 
-## Landscape of genomic alterations in cervical carcinomas
+<!-- --- &twocol  -->
+<!-- ## Landscape of genomic alterations in cervical carcinomas -->
 
-***=left
+<!-- ***=left -->
 
-Relationships between HPV integration, copy-number amplifications and gene expression in cervical carcinoma
+<!-- Relationships between HPV integration, copy-number amplifications and gene expression in cervical carcinoma -->
 
-- HPV integration occurred closer to amplified regions than expected by chance. 
-- Viral integration was localized to one locus in most tumours investigated. 
-- Many of the genes involved in the integration events are members of cellular pathways known to have important roles in cancer.
+<!-- - HPV integration occurred closer to amplified regions than expected by chance.  -->
+<!-- - Viral integration was localized to one locus in most tumours investigated.  -->
+<!-- - Many of the genes involved in the integration events are members of cellular pathways known to have important roles in cancer. -->
 
-***=right
+<!-- ***=right -->
 
-![cervical](http://www.nature.com/nature/journal/v506/n7488/images/nature12881-f3.jpg)
+<!-- ![cervical](http://www.nature.com/nature/journal/v506/n7488/images/nature12881-f3.jpg) -->
 
----
-## Altered immune response in cervical carcinomas
+<!-- --- -->
+<!-- ## Altered immune response in cervical carcinomas -->
 
-- Mutations in the HLA-B, HLA-A and in the β2-microglobulin (B2M) genes. 
-- All mutations in these three genes were within the antigen-presenting domains of each respective protein.
-- Pathway analyses also revealed that the most significantly mutated gene set in squamous cell carcinomas involves immune response genes in the interferon-γ signalling pathway, including mutations in IFNG and JAK2. 
-- Together, these data highlight the significance of the synergy between HPV infection and an altered immune response in squamous cell carcinomas of the cervix.
+<!-- - Mutations in the HLA-B, HLA-A and in the β2-microglobulin (B2M) genes.  -->
+<!-- - All mutations in these three genes were within the antigen-presenting domains of each respective protein. -->
+<!-- - Pathway analyses also revealed that the most significantly mutated gene set in squamous cell carcinomas involves immune response genes in the interferon-γ signalling pathway, including mutations in IFNG and JAK2.  -->
+<!-- - Together, these data highlight the significance of the synergy between HPV infection and an altered immune response in squamous cell carcinomas of the cervix. -->
 
---- &twocol
-## SV40 kasutab sama mehhanismi mis spontaansetes kasvajates
+<!-- --- &twocol -->
+<!-- ## SV40 kasutab sama mehhanismi mis spontaansetes kasvajates -->
 
-***=left
+<!-- ***=left -->
 
-- Endomeetriumi vähkides esinevad sageli koos PPP2R1A ja TP53 mutatsioonid.
-- PPP2R1A on PP2A fosfataasi regulatoorne subühik, PP2A inhibeerib kasvufaktorite signalisatsiooni.
-- TP53 on tuumorsuppressorgeen.
-- SV40 _small T antigen_ seostub PPP2R1A valgule ja rikub PP2A regulatoorsete subühikute seostumise.
-- SV40 _large T antigen_ põhjustab TP53 inactivatiooni.
+<!-- - Endomeetriumi vähkides esinevad sageli koos PPP2R1A ja TP53 mutatsioonid. -->
+<!-- - PPP2R1A on PP2A fosfataasi regulatoorne subühik, PP2A inhibeerib kasvufaktorite signalisatsiooni. -->
+<!-- - TP53 on tuumorsuppressorgeen. -->
+<!-- - SV40 _small T antigen_ seostub PPP2R1A valgule ja rikub PP2A regulatoorsete subühikute seostumise. -->
+<!-- - SV40 _large T antigen_ põhjustab TP53 inactivatiooni. -->
 
-***=right
+<!-- ***=right -->
 
-![SV40](assets/img/Gibson2016SuppFig12.png)
-
-
-<footer class="source">Pilt: The genomic landscape and evolution of endometrial carcinoma progression and abdominopelvic metastasis. [doi:10.1038/ng.3602](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3602.html)
-</footer>
+<!-- ![SV40](assets/img/Gibson2016SuppFig12.png) -->
 
 
---- &twocol
-## Comprehensive molecular characterization of gastric adenocarcinoma
+<!-- <footer class="source">Pilt: The genomic landscape and evolution of endometrial carcinoma progression and abdominopelvic metastasis. [doi:10.1038/ng.3602](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3602.html) -->
+<!-- </footer> -->
 
-***=left
 
-- EBV-d on leitud umbes 9% maovähkides.
-- EBV alagruppi iseloomustab 9p lookuse amplifikatsioon 15% juhtudest.
-- 9p lookuses asuvad JAK2, CD274 ja PDCD1LG2 geenid.
-    - JAK2 retseptor-türosiinkinaas ja potensiaalne terapeutiline märklaud. 
-    - CD274 ja PDCD1LG2 kodeerivad PD-L1 ja PD-L2 immunosuppresseerivaid valke nn. _checkpoint proteins_.
-    - PD-L1 valku blokeerivad antikehad on hiljuti kliinilisse kasutusse jõudnud paljulubavad vähiterapeutikumid.
+<!-- --- &twocol -->
+<!-- ## Comprehensive molecular characterization of gastric adenocarcinoma -->
 
-***=right
+<!-- ***=left -->
 
-![gastric](assets/img/gastriccancer.jpg)
+<!-- - EBV-d on leitud umbes 9% maovähkides. -->
+<!-- - EBV alagruppi iseloomustab 9p lookuse amplifikatsioon 15% juhtudest. -->
+<!-- - 9p lookuses asuvad JAK2, CD274 ja PDCD1LG2 geenid. -->
+<!--     - JAK2 retseptor-türosiinkinaas ja potensiaalne terapeutiline märklaud.  -->
+<!--     - CD274 ja PDCD1LG2 kodeerivad PD-L1 ja PD-L2 immunosuppresseerivaid valke nn. _checkpoint proteins_. -->
+<!--     - PD-L1 valku blokeerivad antikehad on hiljuti kliinilisse kasutusse jõudnud paljulubavad vähiterapeutikumid. -->
+
+<!-- ***=right -->
+
+<!-- ![gastric](assets/img/gastriccancer.jpg) -->
 
 --- .segue .dark .nobackground
 ## Kuidas seletada vähi teket inimesel
