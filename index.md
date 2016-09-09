@@ -558,7 +558,7 @@ Katsusaburō Yamagiwa
 ***=right
 
 <div style='text-align: center;'>
-    <img width='300' src='http://www.ncbi.nlm.nih.gov/books/NBK190612/bin/ch6fu3.jpg' />
+    <img width='200' src='http://www.ncbi.nlm.nih.gov/books/NBK190612/bin/ch6fu3.jpg' />
 </div>
 
 <footer class="source">Pilt: Sue Weil, Memorial Sloan-Kettering Cancer Center
