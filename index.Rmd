@@ -230,9 +230,9 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ---
 ## Kasvajates reeglina viiruspartikleid ei leita
 
-- Lisaks EBV-le on veel ainult üks inimese onkoviirus (T-lümfotroopne viirus I, HTLV-I) tuumorites kirjeldatud kasutades klassikalisi viroloogi töövahendeid: mikroskoopi ja viiruskultuuri.
-- B hepatiidi seos maksakartsinoomiga tehti kindlaks 22707 Taiwani meest hõlmavas populatsiooniuuringus.
-- HPV-16/18, C hepatiidi, Kaposi sarkoomi ja Merkeli rakkude polüoomiviirus identifitseeriti kasvajates molekulaarbioloogia meetodeid kasutades.
+- Lisaks EBV-le on veel ainult T-lümfotroopne viirus I (HTLV-I) tuumorites kirjeldatud kasutades **mikroskoopi ja viiruskultuuri**.
+- B hepatiidi seos maksakartsinoomiga tehti kindlaks 22707 Taiwani meest hõlmavas **populatsiooniuuringus**.
+- HPV-16/18, C hepatiidi, Kaposi sarkoomi ja Merkeli rakkude polüoomiviirus identifitseeriti kasvajates **molekulaarbioloogia meetodeid** kasutades.
 
 ---
 ## Viiruse integratsioon on seotud märklaudgeenide ekspressiooni muutustega
