@@ -204,7 +204,7 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ## Inimese vähid kus esineb kõrge viirusekspressioon
 
 <div style='text-align: center;'>
-    <img width='800' src='assets/img/ncomms3513-f1.jpg' />
+    <img width='600' src='assets/img/ncomms3513-f1.jpg' />
 </div>
 
 <footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
@@ -238,7 +238,7 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ## Viiruse integratsioon on seotud märklaudgeenide ekspressiooni muutustega
 
 <div style='text-align: center;'>
-    <img width='380' src='http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg' />
+    <img width='600' src='http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg' />
 </div>
 
 <footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
