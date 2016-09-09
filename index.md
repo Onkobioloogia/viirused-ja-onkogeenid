@@ -585,7 +585,7 @@ Katsusaburō Yamagiwa
 </div>
 
 ----
-## Inimese vähkide retroviraalsed onkogeenid
+# Inimese vähkide retroviraalsed onkogeenid
 
 Viirus | Liik | Onkogeen | Onkovalk | Inimese kasvaja
 -------|------|----------|----------|----------------------------
