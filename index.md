@@ -245,9 +245,19 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
     <img width='380' src='http://www.uvm.edu/medicine/pathology/images/evans3rdsetofimages.jpg' />
 </div>
 
+---.segue .dark .nobackground
+## Viiruste vähimehhanismid
+
+---
+## Viirused põhjustavad kasvajaid mitut moodi
+Mehhanismid langevad kahte laia kategooriasse.
+
+- **otsene mehhanism: insertsiooniline mutagenees**, onkviirused nakatavad normaalseid rakke ja integreeruvad genoomi põhjustades muutunud lokaalset geeniekspressiooni. Kui rakud koguvad veel lisamutatsioone või leiab aset immuunsüsteemi nõrgenemine, siis võivad sellised rakud viia vähi tekkeni. 
+
+- **kaudne mehhanism**, viirusinfektsioon põhjustab põletikku. Krooniline põletik tõstab vähitekke riski selles koes.
+
 ---
 ## Viiruse integratsioon on seotud märklaudgeenide ekspressiooni muutustega
-
 
 <div style='text-align: center;'>
     <img width='600' src='http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg' />
@@ -288,15 +298,7 @@ Enne AIDSi epideemiat oli Kaposi sarkoom üliharuldane.
 HIV ise ei ole tumorigeenne, kuid loob immuunpuudulikkuse näol keskkonna kasvaja-viiruste "kapist välja" tulemiseks.
 
 ---.segue .dark .nobackground
-## Viiruste vähimehhanismid
-
----
-## Viirused põhjustavad kasvajaid mitut moodi
-Mehhanismid langevad kahte laia kategooriasse.
-
-- **otsene mehhanism: insertsiooniline mutagenees**, onkviirused nakatavad normaalseid rakke ja integreeruvad genoomi põhjustades muutunud lokaalset geeniekspressiooni. Kui rakud koguvad veel lisamutatsioone või leiab aset immuunsüsteemi nõrgenemine, siis võivad sellised rakud viia vähi tekkeni. 
-
-- **kaudne mehhanism**, viirusinfektsioon põhjustab põletikku. Krooniline põletik tõstab vähitekke riski selles koes.
+## Onkogeenid
 
 ---&twocol
 ## src paradigma
