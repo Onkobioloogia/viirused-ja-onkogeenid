@@ -694,7 +694,9 @@ neer | 10 (H)
 - Struktuursed (mutatsioonid)
 - Regulatoorsed $\times$ Struktuursed
 
-![muts](http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg)
+<div style='text-align: center;'>
+    <img width='600' src='http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg' />
+</div>
 
 <footer class="source">[Emerging landscape of oncogenic signatures across human cancers](http://www.nature.com/ng/journal/v45/n10/full/ng.2762.html)</footer>
 
@@ -708,7 +710,6 @@ Kolm mehhanismi, kõik regulatoorsed:
 - kromosomaalsed translokatsioonid
 
 --- &twocol
-
 ## N-MYC amplifikatsioon pärilikes neuroblastoomides
 
 ***=left
@@ -723,7 +724,9 @@ Kahte tüüpi amplifikatsioone
 ***=right
 *HSR* ja *double minutes* (nooled)
 
+<div style='text-align: center;'>
 <img src="http://streaming.cineca.it/sestri/courses/cancgen/img/Maris/image053.jpg" style="width:400px;">
+</div>
 
 --- &twocol
 
