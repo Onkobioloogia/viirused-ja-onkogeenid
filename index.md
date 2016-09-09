@@ -183,7 +183,9 @@ inimese T-raku leukeemia viirus (HTLV-I) | retroviirus | 9
 - Inimestel on leitud seitsmel (7) viirusel seos vähi tekkega.
 - Inimese kasvajaviirused on kõik eri klassidest ja hõlmavad kogu viirus-spektrit.
 
-![xkcd](http://imgs.xkcd.com/comics/seven.png)
+<div style='text-align: center;'>
+    <img width='600' src='http://imgs.xkcd.com/comics/seven.png' />
+</div>
 
 --- 
 ## Inimese kasvaja-viirused
