@@ -256,11 +256,25 @@ Mehhanismid langevad kahte laia kategooriasse.
 
 - **kaudne mehhanism**, viirusinfektsioon põhjustab põletikku. Krooniline põletik tõstab vähitekke riski selles koes.
 
----
+---&twocol
 ## src paradigma
 
+***=left
 - Põhinedes RSV võimel mõni päev peale nakatamist rakke transformeerida, töötati 1958. Temini ja Rubini poolt välja nn **_focus assay_** 
 - Fookuste hulk oli otseses seoses rakkudele lisatud RSV hulgaga, seega oli RSV täiesti piisav peremeesraku transformeerimiseks.
+
+***=right
+
+<a href="https://www.researchgate.net/figure/51823723_fig3_Figure-3-Cell-transformation-by-RSV-A-The-RSV-focus-assay-of-transformed-cells-in-a"><img src="https://www.researchgate.net/profile/Robin_Weiss/publication/51823723/figure/fig3/AS:276993888276485@1443051897544/Figure-3-Cell-transformation-by-RSV-A-The-RSV-focus-assay-of-transformed-cells-in-a.png" alt="Figure 3.  Cell transformation by RSV. (A) The RSV focus assay of transformed cells in a chick embryo fibroblast monolayer as described by Temin and Rubin (1958) showing a 1:100 and 1:1000 dilution of the virus stock. Each stained dot represents a focus of transformed cells. (B) A scanning electron micrograph of one focus of RSV-transformed cells. It was the ability to transform cells in culture and to isolate individual clones of RSV that led to the molecular biology and genetic studies of tumor viruses. (Reproduced from Weiss, R.A., PhD thesis, University of London. 1969.)&nbsp;"></a>
+
+<!-- <div style='text-align: center;'> -->
+<!--     <img width='380' src='' /> -->
+<!-- </div> -->
+
+<footer class="source">Figure 3. Cell transformation by RSV. (A) The RSV focus assay of... - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/51823723_fig3_Figure-3-Cell-transformation-by-RSV-A-The-RSV-focus-assay-of-transformed-cells-in-a
+</footer>
+
+
 
 --- 
 ## Paljunemine ja raku transformeerimine on viirusel eraldi funktsioonid
