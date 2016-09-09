@@ -214,17 +214,17 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ## Epstein-Barri viirus (EBV)
 
 ***=left
-- EBV partiklid avastati elektronmikroskoopia teel **Aafrika Burkitti lümfoomi** patsientidel.
+- EBV partiklid kirjeldati **Aafrika Burkitti lümfoomi** patsientidel.
 - EBV on laialt levinud ekvatoriaal Aafrikas ja Paapua Uus-Guineas. 
-    - Ainult 2.3% lümfoomidest on Burkitti lümfoomid. 
+    - Ainult 2.3% lümfoomidest on BL. 
     - ~100% patsientidest nakatunud.
     - võib kaasneda malaariast või kollapalavikust tingitud immuun-puudulikkusega.
-- **Sporaadiline Burkitti lümfoom** esineb arenenud maades.
-    - EBV negatiivne, kuid sisaldab iseloomulikke MYC-i translokatsioone. 
+- **Sporaadiline BL** esineb arenenud maades.
+    - EBV negatiivne, kuid sisaldab MYC-i translokatsioone. 
 
 ***=right
 <div style='text-align: center;'>
-    <img width='380' src='http://artsandsciences.colorado.edu/magazine/images/2011_winter/features_cancer_cells.jpg' />
+    <img width='400' src='http://artsandsciences.colorado.edu/magazine/images/2011_winter/features_cancer_cells.jpg' />
 </div>
 
 ---
