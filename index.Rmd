@@ -96,7 +96,9 @@ Mitmed uuringud näitasid loomadel vähi seost viirusnakkustega
 ## Kas vähk on viirushaigus?
 
 ***=left
-![lifemag](http://33.media.tumblr.com/tumblr_m5tnjt5vDR1qbz9meo1_500.jpg)
+<div style='text-align: center;'>
+    <img width='380' src='http://33.media.tumblr.com/tumblr_m5tnjt5vDR1qbz9meo1_500.jpg' />
+</div>
 
 ***=right
 Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile, et **vähk on viirushaigus**.
