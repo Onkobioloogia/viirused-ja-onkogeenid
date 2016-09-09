@@ -335,14 +335,14 @@ Mehhanismid langevad kahte laia kategooriasse.
 - **viiruse paljunemine pole raku transformatsiooniks vajalik**, replikatsiooni-defektne mutant transformeeris rakke ilma viirust tootmata;
 - **tekivad spontaansed mutandid mis replitseeruvad kuid enam ei transformeeri**, enamus RSV liine on mitte-defektsed (neil on genoomis olemas kõik viiruse replikatsiooniks vajalikud geenid, pluss onkogeen).
 
-----
-## RSV geenide aktiivsus on vajalik transformatsiooniks
+<!-- ---- -->
+<!-- ## RSV geenide aktiivsus on vajalik transformatsiooniks -->
 
-- RSV-indutseeritud transformatsioon kandub järglasrakkudele edasi.
-- Kas tegemist on nn. *hit and run* mehhanismiga või on viiruse aktiivsus transformatsiooniks permanentselt vajalik
-    - *hit and run*: transformeerunud fenotüüp kandub edasi juba viirusest sõltumatult.
-- Viirusgeenide vajalikkus selgus 1970ndatel kui kirjeldati temperatuuritundliku (*ts*) RSV mutandiga tehtud katseid:
-    - transformatsioon oli temperatuuritundlik, kuid viiruse replikatsioon mitte.
+<!-- - RSV-indutseeritud transformatsioon kandub järglasrakkudele edasi. -->
+<!-- - Kas tegemist on nn. *hit and run* mehhanismiga või on viiruse aktiivsus transformatsiooniks permanentselt vajalik -->
+<!--     - *hit and run*: transformeerunud fenotüüp kandub edasi juba viirusest sõltumatult. -->
+<!-- - Viirusgeenide vajalikkus selgus 1970ndatel kui kirjeldati temperatuuritundliku (*ts*) RSV mutandiga tehtud katseid: -->
+<!--     - transformatsioon oli temperatuuritundlik, kuid viiruse replikatsioon mitte. -->
 
 ---&twocol
 ## RSV src pärineb peremeesraku genoomist
