@@ -300,7 +300,7 @@ Enne AIDSi epideemiat oli Kaposi sarkoom üliharuldane.
 HIV ise ei ole tumorigeenne, kuid loob immuunpuudulikkuse näol keskkonna kasvaja-viiruste "kapist välja" tulemiseks.
 
 ---.segue .dark .nobackground
-## Onkogeenid
+## Viiruse onkogeenid
 
 ---&twocol
 ## src paradigma
@@ -476,7 +476,7 @@ CycD1 | F-MLV | T-raku lümfoom | hiir | G1 tsükliin
 ## Kuidas seletada vähi teket inimesel
 
 --- 
-## Hüpotees: endogeensed proviirused
+## Endogeensed proviirused?
 
 - Lähtudes retroviiruste elutsüklist, integreeruvad genoomi **endogeensete retroviirustena**,
 - satuvad idutee rakkudesse ja muutuvad pärilikuks,
@@ -495,7 +495,6 @@ CycD1 | F-MLV | T-raku lümfoom | hiir | G1 tsükliin
 
 <footer class="source">Pilt: ~5% hiire genoomist sisaldab endogeenseid retroviirus järjestusi. [Endogenous Retroviruses and the Development of Cancer](http://www.jimmunol.org/content/192/4/1343.full)
 </footer>
-
 
 --- 
 ## Inimese ERV-d... FUBAR
