@@ -139,11 +139,29 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
 <!-- Mehhanism: **insertsiooniline mutagenees**  -->
 
 <!-- ![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png) -->
+---
+## ALV/RSV virion
+
+![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png)
+
+---
+## Metsik tüüpi RSV vs. transformatsioonidefektne (td)
+td RSV genoom on väiksem
+
+![src](http://www.nature.com/nrc/journal/v12/n9/images/nrc3320-f1.jpg)
+
+---
+## Lihtsa retroviiruse elutsükkel
+Retroviirused transformeerivad kana ja hiire rakke
+Mehhanism: **insertsiooniline mutagenees**
+
+![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png)
 
 ---
 ## Inimesel ei ole lihtsaid retroviiruseid
 
-Inimesel otsiti vähkidest pikalt RSV sarnast lihtsat retroviirust, kuid vähiga seoses leiti ainult komplekssed retroviirused nagu HTLV-I ja HIV-1/-2.
+- Inimesel otsiti vähkidest pikalt RSV sarnast lihtsat retroviirust, 
+- Kuid vähiga seoses leiti ainult **komplekssed retroviirused** nagu HTLV-I (_Human T-lymphotropic virus_) ja HIV-1/-2.
 
 ---
 ## Vähki indutseeriva toimega on väga erinevad viirused
@@ -291,23 +309,6 @@ Mehhanismid langevad kahte laia kategooriasse.
     - *hit and run*: transformeerunud fenotüüp kandub edasi juba viirusest sõltumatult.
 - Viirusgeenide vajalikkus selgus 1970ndatel kui kirjeldati temperatuuritundliku (*ts*) RSV mutandiga tehtud katseid:
     - transformatsioon oli temperatuuritundlik, kuid viiruse replikatsioon mitte.
-
----
-## ALV/RSV virion
-
-![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png)
-
----
-# Metsik tüüpi RSV vs. transformatsioonidefektne (td)
-
-td RSV genoom on väiksem
-
-![src](http://www.nature.com/nrc/journal/v12/n9/images/nrc3320-f1.jpg)
-
----
-## Lihtsa retroviiruse elutsükkel
-
-![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png)
 
 ---&twocol
 ## RSV src pärineb peremeesraku genoomist
