@@ -211,7 +211,7 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 </footer>
 
 ---&twocol
-## Epstein-Barri viirus (EBV)
+## Epstein-Barri viirus (EBV, HHV-4)
 
 ***=left
 - EBV partiklid kirjeldati **Aafrika Burkitti lümfoomi** patsientidel.
