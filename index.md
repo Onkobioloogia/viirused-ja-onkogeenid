@@ -204,23 +204,25 @@ Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsi
 ## Inimese vähid kus esineb kõrge viirusekspressioon
 
 <div style='text-align: center;'>
-    <img width='600' src='assets/img/ncomms3513-f1.jpg' />
+    <img width='800' src='assets/img/ncomms3513-f1.jpg' />
 </div>
 
 <footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
 </footer>
 
----
+---&twocol
 ## Epstein-Barri viirus (EBV)
 
-- EBV partiklid avastati elektronmikroskoopia teel nn. **Aafrika Burkitti lümfoomi** patsientidel.
+***=left
+- EBV partiklid avastati elektronmikroskoopia teel **Aafrika Burkitti lümfoomi** patsientidel.
 - EBV on laialt levinud ekvatoriaal Aafrikas ja Paapua Uus-Guineas. 
-    - Ainult 2.3% lümfoomidest on nn. Burkitti lümfoomid. 
+    - Ainult 2.3% lümfoomidest on Burkitti lümfoomid. 
     - ~100% patsientidest nakatunud.
     - võib kaasneda malaariast või kollapalavikust tingitud immuun-puudulikkusega.
 - **Sporaadiline Burkitti lümfoom** esineb arenenud maades.
     - EBV negatiivne, kuid sisaldab iseloomulikke MYC-i translokatsioone. 
 
+***=right
 <div style='text-align: center;'>
     <img width='380' src='http://artsandsciences.colorado.edu/magazine/images/2011_winter/features_cancer_cells.jpg' />
 </div>
