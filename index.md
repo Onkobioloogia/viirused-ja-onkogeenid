@@ -275,13 +275,16 @@ HPV genoomi integratsioonikohad kolokaliseeruvad DNA koopia-arvu muutustega pea-
 <footer class="source">Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.
 </footer>
 
----
+---&twocol
 ## Kaposi sarkoom ja AIDS
-
 Enne AIDSi epideemiat oli Kaposi sarkoom üliharuldane.
 
-![KSHV](http://1.bp.blogspot.com/-kY9S0A0KJkQ/TY0pqUgWCGI/AAAAAAAAA_M/hyT-Z9YJDhw/ht_philadelphia_051209_ssh.jpg)
+***=left
+<div style='text-align: center;'>
+    <img width='380' src='http://1.bp.blogspot.com/-kY9S0A0KJkQ/TY0pqUgWCGI/AAAAAAAAA_M/hyT-Z9YJDhw/ht_philadelphia_051209_ssh.jpg' />
+</div>
 
+***=right
 HIV ise ei ole tumorigeenne, kuid loob immuunpuudulikkuse näol keskkonna kasvaja-viiruste "kapist välja" tulemiseks.
 
 ---.segue .dark .nobackground
