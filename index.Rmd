@@ -787,13 +787,13 @@ Mao- ja rinna kartsinoomides, glioblastoomides
     <img width='600' src='http://www.cell.com/cms/attachment/2009273090/2032282083/gr1.jpg' />
 </div>
 
----
-## BCR-ABL translokatsioon
-Leukeemiates ja lümfoomides
+<!-- --- -->
+<!-- ## BCR-ABL translokatsioon -->
+<!-- Leukeemiates ja lümfoomides -->
 
-<div style='text-align: center;'>
-    <img width='600' src='http://img.medscape.com/fullsize/migrated/580/426/era580426.fig1.gif' />
-</div>
+<!-- <div style='text-align: center;'> -->
+<!--     <img width='600' src='http://img.medscape.com/fullsize/migrated/580/426/era580426.fig1.gif' /> -->
+<!-- </div> -->
 
 ---
 ## Kokkuvõte
