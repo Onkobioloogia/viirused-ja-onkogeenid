@@ -637,7 +637,9 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 - valguekspressiooni mõjutavad muutused
 - valgu struktuuri mõjutavad muutused
 
-https://i2.wp.com/bio1151.nicerweb.com/Locked/media/ch18/18_20OncogeneMutation-L.jpg?zoom=2
+<div style='text-align: center;'>
+    <img width='600' src='https://i2.wp.com/bio1151.nicerweb.com/Locked/media/ch18/18_20OncogeneMutation-L.jpg' />
+</div>
 
 ---
 ## Valguekspressiooni mõjutavad muutused
@@ -651,6 +653,7 @@ https://i2.wp.com/bio1151.nicerweb.com/Locked/media/ch18/18_20OncogeneMutation-L
 ---&twocol
 ## Valgu struktuuri mõjutavad muutused
 Punktmutatsioonid
+
 ***=left
 
 - H-ras isoleeriti inimese kusepõie kartsinoomist,
