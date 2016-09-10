@@ -640,7 +640,7 @@ https://i2.wp.com/bio1151.nicerweb.com/Locked/media/ch18/18_20OncogeneMutation-L
 
 ---&twocol
 ## Valgu struktuuri mõjutavad muutused
-
+Punktmutatsioonid
 ***=left
 
 - H-ras isoleeriti inimese kusepõie kartsinoomist,
@@ -675,6 +675,23 @@ maks | 30 (N)
 melanoom | 15 (K)
 kusepõis | 10 (K)
 neer | 10 (H)
+
+---&twocol
+## Valgu struktuuri mõjutavad muutused
+Translokatsioonid
+
+***=left
+
+- BCR-ABL1 fuusion
+- ABL1 on türosiin kinaas, mille fuusion BCR valguga muudab selle konstitutiivselt aktiivseks
+- 95% CML juhtudest sisaldab t(9;22) nn. _Philadelphia kromosoomi_
+
+***=right
+
+<div style='text-align: center;'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Schematic_of_the_Philadelphia_Chromosome.svg/780px-Schematic_of_the_Philadelphia_Chromosome.svg.png" style="width:360px;">
+</div>
+
 --- 
 ## c-MYC aktivatsiooni mehhanismid 
 
