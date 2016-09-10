@@ -537,12 +537,18 @@ Katsusaburō Yamagiwa
 - pintseldas küüliku kõrvu igapäevaselt pigiga,
 - mitu kuud hiljem moodustus lamerakuline kartsinoom.
 
----
+---&twocol
 ## Kartsinogeenid toimivad mutageenidena
 
+***=left
 - Tugevalt mutageensed ühendid on ka tugevalt kartsinogeensed (nt. aflatoksiin B1, benso(a)püreen). 
-
 - Füüsilise või keemilise kartsinogeeni poolt transformeerunud rakud kannavad muteerunud geene e. onkogeene, mis rikuvad normaalse kasvukontrolli.
+
+***=right
+<div style='text-align: center;'>
+    <img width='200' src='https://4.bp.blogspot.com/-tj5rdV6C9zo/UrRPCo9GmBI/AAAAAAAADqY/4amCITocJ9U/s1600/rabbit+ear+cancer.JPG' />
+</div>
+
 
 --- &twocol
 ## onkogeenid tekivad ka viirustest sõltumatult
