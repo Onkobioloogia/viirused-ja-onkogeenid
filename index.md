@@ -545,15 +545,16 @@ Katsusaburō Yamagiwa
 - Füüsilise või keemilise kartsinogeeni poolt transformeerunud rakud kannavad muteerunud geene e. onkogeene, mis rikuvad normaalse kasvukontrolli.
 
 --- &twocol
-## DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
+## onkogeenid tekivad ka viirustest sõltumatult
+DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
 
 ***=left
 
-- Hiire C3HT1/2 rakke transformeeriti 3-metüülkolantreeni (3-ME, MCA) abil,
+- Hiire C3HT1/2 rakke töödeldi mutageeni 3-metüülkolantreeni (3-ME, MCA) abil,
 - transformeerunud rakkudest isoleeriti genoomne DNA,
 - eraldatud DNA transformeeriti mitte-tumorigeensetesse NIH3T3 rakkudesse,
 - isoleeriti kolooniad mis olid transformeerunud ja tumorigeensed.
-- *Sama loogika toimib ka inimese vähirakkudest eraldatud DNA korral.*
+- 1 onkogeen = 1 transformeerunud rakk/koloonia
 
 ***=right
 
@@ -563,15 +564,6 @@ Katsusaburō Yamagiwa
 
 <footer class="source">Pilt: Sue Weil, Memorial Sloan-Kettering Cancer Center
 </footer>
-
---- 
-## 1 onkogeen = 1 transformeerunud rakk/koloonia
-
-- Transformeerunud rakkude genoomse DNA fragmentide transfekteerimisel läheb rakku sisse 0.1% doonor DNA-d.
-
-- Tõenäosus, et kaks lingitud geeni satuvad ühte rakku on 1 miljonist. 
-
-<q>Kokkuvõte: onkogeenid tekivad ka viirustest sõltumatult.</q>
 
 --- 
 ## Retroviiruste poolt aktiveeritud onkogeenid on samad mis mitte-viraalsete kartsinogeenide aktiveeritud
