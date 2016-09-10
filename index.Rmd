@@ -610,25 +610,6 @@ Lindude erütroblastoos E26 | kana | ets | transkriptsioonifaktor | leukeemia
 Lindude müelotsütoom | kana | myc | transkriptsioonifaktor | erinevad vähid
 Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 
----&twocol
-## erbB2/neu onkogeeni amplifikatsioon rinnakasvajates
-
-- 1987. a. kirjeldati seos erbB2/neu geeni amplifikatsiooni ja rinnavähi elulemuse ning relapsi vahel.
-
-***=left
-
-<img src="assets/img/erbB2_amplif_Slamon1987.png" style="width:260px;"/>
-<img src="assets/img/erbB2_surv_Slamon1987.png" style="width:260px;"/>
-
-***=right
-
-<div style='text-align: center;'>
-    <img width='380' src='http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png' />
-</div>
-
-<footer class="source">Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235: 177-182.
-</footer>
-
 ---
 ## Proto-onkogeenide aktivatsioon
 
@@ -649,6 +630,25 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
     - c-myc ekspressioon on füsioloogilistes tingimustes kasvufaktorite kontrolli all
     - AMV (Avian Myeoloblastosis Virus) genoomis hakatakse aga v-myc järjestust konstitutiivselt kõrgelt ekspresseerima, sõltumata füsioloogilistest signaalidest mis seda geeni varem reguleerisid.
 - Inimese kasvajates on peamiseks mehhanismiks lookuse amplifikatsioon (tsükliin D1, erbB2) 
+
+---&twocol
+## erbB2/neu onkogeeni amplifikatsioon rinnakasvajates
+
+- 1987. a. kirjeldati seos erbB2/neu geeni amplifikatsiooni ja rinnavähi elulemuse ning relapsi vahel.
+
+***=left
+
+<img src="assets/img/erbB2_amplif_Slamon1987.png" style="width:260px;"/>
+<img src="assets/img/erbB2_surv_Slamon1987.png" style="width:260px;"/>
+
+***=right
+
+<div style='text-align: center;'>
+    <img width='380' src='http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png' />
+</div>
+
+<footer class="source">Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235: 177-182.
+</footer>
 
 ---&twocol
 ## Valgu struktuuri mõjutavad muutused
@@ -705,16 +705,9 @@ Translokatsioonid
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Schematic_of_the_Philadelphia_Chromosome.svg/780px-Schematic_of_the_Philadelphia_Chromosome.svg.png" style="width:360px;">
 </div>
 
---- 
-## c-MYC aktivatsiooni mehhanismid 
-
-Kolm mehhanismi, kõik regulatoorsed:
-- proviiruse integratsioon (linnud)
-- geeni amplifikatsioon (inimene)
-- kromosomaalsed translokatsioonid
-
 --- &twocol
 ## N-MYC amplifikatsioon pärilikes neuroblastoomides
+MYC perekonna transkriptsiooni faktor mis reguleerib raku rakutsüklisse sisenemist ja rakkude ellujäämist.
 
 ***=left
 
@@ -731,6 +724,15 @@ Kahte tüüpi amplifikatsioone
 <div style='text-align: center;'>
 <img src="http://streaming.cineca.it/sestri/courses/cancgen/img/Maris/image053.jpg" style="width:400px;">
 </div>
+
+--- 
+## c-MYC aktivatsiooni mehhanismid 
+
+Kolm mehhanismi, kõik regulatoorsed:
+- proviiruse integratsioon (linnud)
+- geeni amplifikatsioon (inimene)(metastaseeruvad rinna- ja munasarjavähid)
+- kromosomaalsed translokatsioonid (lümfoomides)
+
 
 --- &twocol
 ## Sagedamini amplifitseerunud genoomipiirkonnad
