@@ -637,15 +637,16 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 - valguekspressiooni mõjutavad muutused
 - valgu struktuuri mõjutavad muutused
 
+https://i2.wp.com/bio1151.nicerweb.com/Locked/media/ch18/18_20OncogeneMutation-L.jpg?zoom=2
+
 ---
 ## Valguekspressiooni mõjutavad muutused
 
 - Normaalsetes rakkudes on proto-onkogeeni ekspressioon kas alla või ülesse reguleeritud omaenda promootori poolt vastusena füsioloogilistele signaalidele
-
 - Retroviirusega seotud onkogeenide puhul läheb geen raku kontrolli alt viiruse kontrolli alla
     - c-myc ekspressioon on füsioloogilistes tingimustes kasvufaktorite kontrolli all
     - AMV (Avian Myeoloblastosis Virus) genoomis hakatakse aga v-myc järjestust konstitutiivselt kõrgelt ekspresseerima, sõltumata füsioloogilistest signaalidest mis seda geeni varem reguleerisid.
-
+- Inimese kasvajates on peamiseks mehhanismiks lookuse amplifikatsioon (tsükliin D1, erbB2) 
 
 ---&twocol
 ## Valgu struktuuri mõjutavad muutused
@@ -684,22 +685,7 @@ maks | 30 (N)
 melanoom | 15 (K)
 kusepõis | 10 (K)
 neer | 10 (H)
-
----
-## Onkogeenide aktivatsioonimehhanismid
-
-- Regulatoorsed (protoonkogeeni amplifikatsioon, tuumorsupressorgeeni deletsioon)
-- Struktuursed (mutatsioonid)
-- Regulatoorsed $\times$ Struktuursed
-
-<div style='text-align: center;'>
-    <img width='600' src='http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg' />
-</div>
-
-<footer class="source">[Emerging landscape of oncogenic signatures across human cancers](http://www.nature.com/ng/journal/v45/n10/full/ng.2762.html)</footer>
-
 --- 
-
 ## c-MYC aktivatsiooni mehhanismid 
 
 Kolm mehhanismi, kõik regulatoorsed:
