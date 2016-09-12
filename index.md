@@ -205,6 +205,7 @@ Kasutades pöördtranskriptaasi näidati, et RSV-s olev transformeeriv src RNA j
 
 ---
 Retroviiruste onkovalkude funktsionaalsed klassid
+
 Klass | Näide | Viirus
 -----------------|----------|--------------
 kasvufaktor | Sis (PDGFB) | ahvi sarkoomiviirus
@@ -224,6 +225,7 @@ lipiidikinaas | Pi3k | linnu sarkoomiviirus 16
 
 ---
 Ka mitte transformeerivad viirused võivad aktiveerida proto-onkogeene genoomi insertsioonil
+
 Geen | Viirus | Kasvaja | Liik | Onkovalk
 -----|---------------------|------------|---------|-----------------------
 myc | ALV | B-raku lümfoom | kana | transkriptsiooni faktor
