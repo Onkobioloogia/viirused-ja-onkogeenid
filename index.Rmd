@@ -153,7 +153,7 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
 ## src paradigma
 
 ***=left
-- Põhinedes RSV võimel mõni päev peale nakatamist rakke transformeerida, töötasid 1958. Temin ja Rubin välja nn **_focus assay_** 
+- Põhinedes RSV võimel mõni päev peale nakatamist rakke transformeerida, töötasid 1958. Howard Temin and Harry Rubin välja nn **_focus assay_** 
 - Fookuste hulk oli otseses seoses rakkudele lisatud RSV hulgaga, seega oli RSV täiesti piisav peremeesraku transformeerimiseks.
 
 ***=right
