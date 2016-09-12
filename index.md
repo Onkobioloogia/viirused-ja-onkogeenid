@@ -229,7 +229,9 @@ lipiidikinaas | Pi3k | linnu sarkoomiviirus 16
 - Linnu leukoosiviiruse (ALV) genoom ei sisalda onkogeeni, kuid see viirus on onkogeenne.
 - Onkogeenne toime avaldub selle viiruse integratsioonil mõne proto-onkogeeni ette.
 
-![alv](assets/img/insertsiooniline_mutagenees_alv.png)
+<div style='text-align: center;'>
+    <img width='600' src='assets/img/insertsiooniline_mutagenees_alv.png' />
+</div>
 
 ---
 Ka mitte transformeerivad viirused võivad aktiveerida proto-onkogeene genoomi insertsioonil
