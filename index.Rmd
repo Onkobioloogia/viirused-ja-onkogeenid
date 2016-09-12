@@ -174,7 +174,7 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
 
 - **raku fenotüüp on viiruse genoomi kontrolli all**, on olemas RSV mutandid, mis põhjustavad transformeerimisel rakkudel pikenenud fenotüübi;
 - **viiruse paljunemine pole raku transformatsiooniks vajalik**, replikatsiooni-defektne mutant transformeeris rakke ilma viirust tootmata;
-- **tekivad spontaansed mutandid mis replitseeruvad kuid enam ei transformeeri**, enamus RSV liine on mitte-defektsed (neil on genoomis olemas kõik viiruse replikatsiooniks vajalikud geenid, pluss onkogeen).
+- **tekivad spontaansed mutandid mis replitseeruvad kuid enam ei transformeeri (td, _transformation deficient_)**, enamus RSV liine on mitte-defektsed (neil on genoomis olemas kõik viiruse replikatsiooniks vajalikud geenid, pluss onkogeen).
 
 <!-- ---- -->
 <!-- ## RSV geenide aktiivsus on vajalik transformatsiooniks -->
