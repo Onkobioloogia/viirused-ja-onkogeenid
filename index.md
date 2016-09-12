@@ -131,6 +131,15 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
 - tumorigeensus: moodustavad peremees-loomas tuumoreid 
 
 ---
+## Lihtsa retroviiruse elutsükkel
+- Retroviirused transformeerivad kana ja hiire rakke.
+- Mehhanism: **insertsiooniline mutagenees**.
+
+<div style='text-align: center;'>
+    <img width='600' src='http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png' />
+</div>
+
+---
 ## ALV/RSV virion
 
 <div style='text-align: center;'>
@@ -145,14 +154,96 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
     <img width='600' src='http://www.nature.com/nrc/journal/v12/n9/images/nrc3320-f1.jpg' />
 </div>
 
----
-## Lihtsa retroviiruse elutsükkel
-- Retroviirused transformeerivad kana ja hiire rakke.
-- Mehhanism: **insertsiooniline mutagenees**.
+<!-- ---.segue .dark .nobackground -->
+<!-- ## Viiruse onkogeenid -->
 
-<div style='text-align: center;'>
-    <img width='600' src='http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png' />
-</div>
+---&twocol
+## src paradigma
+
+***=left
+- Põhinedes RSV võimel mõni päev peale nakatamist rakke transformeerida, töötasid 1958. Temin ja Rubin välja nn **_focus assay_** 
+- Fookuste hulk oli otseses seoses rakkudele lisatud RSV hulgaga, seega oli RSV täiesti piisav peremeesraku transformeerimiseks.
+
+***=right
+
+<a href="https://www.researchgate.net/figure/51823723_fig3_Figure-3-Cell-transformation-by-RSV-A-The-RSV-focus-assay-of-transformed-cells-in-a"><img src="https://www.researchgate.net/profile/Robin_Weiss/publication/51823723/figure/fig3/AS:276993888276485@1443051897544/Figure-3-Cell-transformation-by-RSV-A-The-RSV-focus-assay-of-transformed-cells-in-a.png" alt="Figure 3.  Cell transformation by RSV. (A) The RSV focus assay of transformed cells in a chick embryo fibroblast monolayer as described by Temin and Rubin (1958) showing a 1:100 and 1:1000 dilution of the virus stock. Each stained dot represents a focus of transformed cells. (B) A scanning electron micrograph of one focus of RSV-transformed cells. It was the ability to transform cells in culture and to isolate individual clones of RSV that led to the molecular biology and genetic studies of tumor viruses. (Reproduced from Weiss, R.A., PhD thesis, University of London. 1969.)&nbsp;"></a>
+
+<!-- <div style='text-align: center;'> -->
+<!--     <img width='380' src='' /> -->
+<!-- </div> -->
+
+<footer class="source">Figure 3. Cell transformation by RSV. (A) The RSV focus assay of... - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/51823723_fig3_Figure-3-Cell-transformation-by-RSV-A-The-RSV-focus-assay-of-transformed-cells-in-a
+</footer>
+
+
+
+--- 
+## Paljunemine ja raku transformeerimine on viirusel eraldi funktsioonid
+
+- **raku fenotüüp on viiruse genoomi kontrolli all**, on olemas RSV mutandid, mis põhjustavad transformeerimisel rakkudel pikenenud fenotüübi;
+- **viiruse paljunemine pole raku transformatsiooniks vajalik**, replikatsiooni-defektne mutant transformeeris rakke ilma viirust tootmata;
+- **tekivad spontaansed mutandid mis replitseeruvad kuid enam ei transformeeri**, enamus RSV liine on mitte-defektsed (neil on genoomis olemas kõik viiruse replikatsiooniks vajalikud geenid, pluss onkogeen).
+
+<!-- ---- -->
+<!-- ## RSV geenide aktiivsus on vajalik transformatsiooniks -->
+
+<!-- - RSV-indutseeritud transformatsioon kandub järglasrakkudele edasi. -->
+<!-- - Kas tegemist on nn. *hit and run* mehhanismiga või on viiruse aktiivsus transformatsiooniks permanentselt vajalik -->
+<!--     - *hit and run*: transformeerunud fenotüüp kandub edasi juba viirusest sõltumatult. -->
+<!-- - Viirusgeenide vajalikkus selgus 1970ndatel kui kirjeldati temperatuuritundliku (*ts*) RSV mutandiga tehtud katseid: -->
+<!--     - transformatsioon oli temperatuuritundlik, kuid viiruse replikatsioon mitte. -->
+
+---&twocol
+## RSV src pärineb peremeesraku genoomist
+
+***=left
+Kasutades ära 1970 aastal RSV-st avastatud RNA sõltuvat DNA polümeraasi (pöördtranskriptaas) näidati, et selles viiruses olev transformeeriv src RNA järestus on pärit linnu genoomist.
+
+*The Nobel Prize in Physiology or Medicine 1975 was awarded jointly to David Baltimore, Renato Dulbecco and Howard Martin Temin "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell".*
+
+***=right
+
+![csrc](http://o.quizlet.com/Eby4zdSHLvqEuPGeLks7bA.png)
+
+
+---
+# Retroviiruste onkovalkude funktsionaalsed klassid
+Klass | Näide | Viirus
+-----------------|----------|--------------
+kasvufaktor | Sis (PDGFB) | ahvi sarkoomiviirus
+retseptor-türosiinkinaas | ErbB (EGFR) | linnu erütroblastoosi viirus
+hormoonretseptor | ErbA (THRA) | linnu erütroblastoosi viirus
+G valk | Ha-ras, GTPase | Harvey sarkoomiviirus
+          | Ki-ras, GTPase|  Kirsten sarkoomiviirus
+adaptorvalk | Crk, adaptorvalk | linnu sarkoomiviirus
+mitte-retseptor TK| Src, tsütoplasma kinaas | Rousi sarkoomiviirus
+                            | Abl, tsütoplasma kinaas | Abelsoni hiire leukemia virus
+seriin/treoniin kinaas | Akt, tsütoplasma kinaas | Akt8 hiire thymoma virus
+                        | Mos, tsütoplasma kinaas | Moloney hiire sarkoomiviirus
+transkriptsiooni regulaator |  Jun, AP1 trans.fakt. | linnu sarkoomiviirus 17
+                          | Fos, AP1 trans.fakt. | FBJ hiire sarkoomiviirus
+                          | Myc, trans.fakt. | linnu müelotsütomatoosi viirus MC29
+lipiidikinaas | Pi3k | linnu sarkoomiviirus 16
+
+---
+# Ka mitte transformeerivad viirused võivad aktiveerida proto-onkogeene genoomi insertsioonil
+Geen | Viirus | Kasvaja | Liik | Onkovalk
+-----|---------------------|------------|---------|-----------------------
+myc | ALV | B-raku lümfoom | kana | transkriptsiooni faktor
+myc | ALV, FeLV | T-raku lümfoom | kana, kass | transkriptsiooni faktor
+nov | ALV | nefroblastoom | kana | kasvufaktor
+erbB | ALV | erütroblastoos | kana | retseptor TK
+int-1 (Wnt-1) | MMTV |  rinnanäärme kartsinoom |  hiir | kasvufaktor
+int-2 (FGF) | MMTV | rinnanäärme kartsinoom | hiir | kasvufaktor
+int-3 (notch)| MMTV | rinnanäärme kartsinoom|  hiir | retseptor
+pim-1 | Mo-MLV | T-raku lümfoom | hiir | ser/thr kinaas
+bmi-1 | Mo-MLV | T-raku lümfoom | hiir|  transkriptsiooni repressor
+tpl-2 | Mo-MLV | T-raku lümfoom | hiir | mitte-retseptor TK
+lck | Mo-MLV |  T-raku lümfoom | hiir | mitte-retseptor TK
+p53 | Mo-MLV | T-raku lümfoom | hiir | transkriptsioonifaktor
+IL2 | GaLV | T-raku lümfoom | gibbon ape | tsütokiin
+K-ras |F-MLV | T-raku lümfoom | hiir | väike G valk
+CycD1 | F-MLV | T-raku lümfoom | hiir | G1 tsükliin
 
 ---
 ## Inimesel ei ole lihtsaid retroviiruseid
@@ -299,97 +390,6 @@ Enne AIDSi epideemiat oli Kaposi sarkoom üliharuldane.
 ***=right
 HIV ise ei ole tumorigeenne, kuid loob immuunpuudulikkuse näol keskkonna kasvaja-viiruste "kapist välja" tulemiseks.
 
----.segue .dark .nobackground
-## Viiruse onkogeenid
-
----&twocol
-## src paradigma
-
-***=left
-- Põhinedes RSV võimel mõni päev peale nakatamist rakke transformeerida, töötasid 1958. Temin ja Rubin välja nn **_focus assay_** 
-- Fookuste hulk oli otseses seoses rakkudele lisatud RSV hulgaga, seega oli RSV täiesti piisav peremeesraku transformeerimiseks.
-
-***=right
-
-<a href="https://www.researchgate.net/figure/51823723_fig3_Figure-3-Cell-transformation-by-RSV-A-The-RSV-focus-assay-of-transformed-cells-in-a"><img src="https://www.researchgate.net/profile/Robin_Weiss/publication/51823723/figure/fig3/AS:276993888276485@1443051897544/Figure-3-Cell-transformation-by-RSV-A-The-RSV-focus-assay-of-transformed-cells-in-a.png" alt="Figure 3.  Cell transformation by RSV. (A) The RSV focus assay of transformed cells in a chick embryo fibroblast monolayer as described by Temin and Rubin (1958) showing a 1:100 and 1:1000 dilution of the virus stock. Each stained dot represents a focus of transformed cells. (B) A scanning electron micrograph of one focus of RSV-transformed cells. It was the ability to transform cells in culture and to isolate individual clones of RSV that led to the molecular biology and genetic studies of tumor viruses. (Reproduced from Weiss, R.A., PhD thesis, University of London. 1969.)&nbsp;"></a>
-
-<!-- <div style='text-align: center;'> -->
-<!--     <img width='380' src='' /> -->
-<!-- </div> -->
-
-<footer class="source">Figure 3. Cell transformation by RSV. (A) The RSV focus assay of... - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/51823723_fig3_Figure-3-Cell-transformation-by-RSV-A-The-RSV-focus-assay-of-transformed-cells-in-a
-</footer>
-
-
-
---- 
-## Paljunemine ja raku transformeerimine on viirusel eraldi funktsioonid
-
-- **raku fenotüüp on viiruse genoomi kontrolli all**, on olemas RSV mutandid, mis põhjustavad transformeerimisel rakkudel pikenenud fenotüübi;
-- **viiruse paljunemine pole raku transformatsiooniks vajalik**, replikatsiooni-defektne mutant transformeeris rakke ilma viirust tootmata;
-- **tekivad spontaansed mutandid mis replitseeruvad kuid enam ei transformeeri**, enamus RSV liine on mitte-defektsed (neil on genoomis olemas kõik viiruse replikatsiooniks vajalikud geenid, pluss onkogeen).
-
-<!-- ---- -->
-<!-- ## RSV geenide aktiivsus on vajalik transformatsiooniks -->
-
-<!-- - RSV-indutseeritud transformatsioon kandub järglasrakkudele edasi. -->
-<!-- - Kas tegemist on nn. *hit and run* mehhanismiga või on viiruse aktiivsus transformatsiooniks permanentselt vajalik -->
-<!--     - *hit and run*: transformeerunud fenotüüp kandub edasi juba viirusest sõltumatult. -->
-<!-- - Viirusgeenide vajalikkus selgus 1970ndatel kui kirjeldati temperatuuritundliku (*ts*) RSV mutandiga tehtud katseid: -->
-<!--     - transformatsioon oli temperatuuritundlik, kuid viiruse replikatsioon mitte. -->
-
----&twocol
-## RSV src pärineb peremeesraku genoomist
-
-***=left
-Kasutades ära 1970 aastal RSV-st avastatud RNA sõltuvat DNA polümeraasi (pöördtranskriptaas) näidati, et selles viiruses olev transformeeriv src RNA järestus on pärit linnu genoomist.
-
-*The Nobel Prize in Physiology or Medicine 1975 was awarded jointly to David Baltimore, Renato Dulbecco and Howard Martin Temin "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell".*
-
-***=right
-
-![csrc](http://o.quizlet.com/Eby4zdSHLvqEuPGeLks7bA.png)
-
-
----
-
-# Retroviiruste onkovalkude funktsionaalsed klassid
-Klass | Näide | Viirus
------------------|----------|--------------
-kasvufaktor | Sis (PDGFB) | ahvi sarkoomiviirus
-retseptor-türosiinkinaas | ErbB (EGFR) | linnu erütroblastoosi viirus
-hormoonretseptor | ErbA (THRA) | linnu erütroblastoosi viirus
-G valk | Ha-ras, GTPase | Harvey sarkoomiviirus
-          | Ki-ras, GTPase|  Kirsten sarkoomiviirus
-adaptorvalk | Crk, adaptorvalk | linnu sarkoomiviirus
-mitte-retseptor TK| Src, tsütoplasma kinaas | Rousi sarkoomiviirus
-                            | Abl, tsütoplasma kinaas | Abelsoni hiire leukemia virus
-seriin/treoniin kinaas | Akt, tsütoplasma kinaas | Akt8 hiire thymoma virus
-                        | Mos, tsütoplasma kinaas | Moloney hiire sarkoomiviirus
-transkriptsiooni regulaator |  Jun, AP1 trans.fakt. | linnu sarkoomiviirus 17
-                          | Fos, AP1 trans.fakt. | FBJ hiire sarkoomiviirus
-                          | Myc, trans.fakt. | linnu müelotsütomatoosi viirus MC29
-lipiidikinaas | Pi3k | linnu sarkoomiviirus 16
-
----
-# Ka mitte transformeerivad viirused võivad aktiveerida proto-onkogeene genoomi insertsioonil
-Geen | Viirus | Kasvaja | Liik | Onkovalk
------|---------------------|------------|---------|-----------------------
-myc | ALV | B-raku lümfoom | kana | transkriptsiooni faktor
-myc | ALV, FeLV | T-raku lümfoom | kana, kass | transkriptsiooni faktor
-nov | ALV | nefroblastoom | kana | kasvufaktor
-erbB | ALV | erütroblastoos | kana | retseptor TK
-int-1 (Wnt-1) | MMTV |  rinnanäärme kartsinoom |  hiir | kasvufaktor
-int-2 (FGF) | MMTV | rinnanäärme kartsinoom | hiir | kasvufaktor
-int-3 (notch)| MMTV | rinnanäärme kartsinoom|  hiir | retseptor
-pim-1 | Mo-MLV | T-raku lümfoom | hiir | ser/thr kinaas
-bmi-1 | Mo-MLV | T-raku lümfoom | hiir|  transkriptsiooni repressor
-tpl-2 | Mo-MLV | T-raku lümfoom | hiir | mitte-retseptor TK
-lck | Mo-MLV |  T-raku lümfoom | hiir | mitte-retseptor TK
-p53 | Mo-MLV | T-raku lümfoom | hiir | transkriptsioonifaktor
-IL2 | GaLV | T-raku lümfoom | gibbon ape | tsütokiin
-K-ras |F-MLV | T-raku lümfoom | hiir | väike G valk
-CycD1 | F-MLV | T-raku lümfoom | hiir | G1 tsükliin
 
 
 <!-- --- -->
