@@ -530,7 +530,7 @@ HIV ise ei ole tumorigeenne, kuid loob immuunpuudulikkuse näol keskkonna kasvaj
     <img width='380' src='http://o.quizlet.com/xr9WvHaD36Lp0zMgy4XrtQ_m.png' />
 </div>
 
-----
+---
 Inimese vähkide retroviraalsed onkogeenid
 
 Viirus | Liik | Onkogeen | Onkovalk | Inimese kasvaja
@@ -567,7 +567,7 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 ***=left
 
 <div style='text-align: center;'>
-    <img width='380' src='http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yamagiwa.JPG/300px-Yamagiwa.JPG' />
+    <img width='340' src='http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yamagiwa.JPG/300px-Yamagiwa.JPG' />
 </div>
 Katsusaburō Yamagiwa
 
