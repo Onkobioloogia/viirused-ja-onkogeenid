@@ -139,23 +139,15 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
     <img width='600' src='http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png' />
 </div>
 
+<footer class="source">David Baltimore, Renato Dulbecco ja Howard Temin said pöördtranskriptaasi avastamise eest 1975. aastal Nobeli meditsiini preemia.
+</footer>
+
 ---
 ## ALV/RSV virion
 
 <div style='text-align: center;'>
     <img width='380' src='http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png' />
 </div>
-
----
-## Metsik tüüpi RSV vs. transformatsioonidefektne (td)
-- td RSV genoom on väiksem.
-
-<div style='text-align: center;'>
-    <img width='600' src='http://www.nature.com/nrc/journal/v12/n9/images/nrc3320-f1.jpg' />
-</div>
-
-<!-- ---.segue .dark .nobackground -->
-<!-- ## Viiruse onkogeenid -->
 
 ---&twocol
 ## src paradigma
@@ -197,14 +189,19 @@ Hiirte peal leitud seos leukeemia ja viirusnakkuse vahel pani aluse hüpoteesile
 ## RSV src pärineb peremeesraku genoomist
 
 ***=left
-Kasutades ära 1970 aastal RSV-st avastatud RNA sõltuvat DNA polümeraasi (pöördtranskriptaas) näidati, et selles viiruses olev transformeeriv src RNA järestus on pärit linnu genoomist.
-
-*The Nobel Prize in Physiology or Medicine 1975 was awarded jointly to David Baltimore, Renato Dulbecco and Howard Martin Temin "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell".*
+Kasutades pöördtranskriptaasi näidati, et RSV-s olev transformeeriv src RNA järestus on pärit linnu genoomist.
 
 ***=right
 
 ![csrc](http://o.quizlet.com/Eby4zdSHLvqEuPGeLks7bA.png)
 
+---
+## Metsik tüüpi RSV vs. transformatsioonidefektne (td)
+- td RSV genoom on väiksem.
+
+<div style='text-align: center;'>
+    <img width='600' src='http://www.nature.com/nrc/journal/v12/n9/images/nrc3320-f1.jpg' />
+</div>
 
 ---
 # Retroviiruste onkovalkude funktsionaalsed klassid
