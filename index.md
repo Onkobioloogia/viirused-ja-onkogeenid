@@ -618,7 +618,7 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 - valgu struktuuri mõjutavad muutused
 
 <div style='text-align: center;'>
-    <img width='600' src='https://i2.wp.com/bio1151.nicerweb.com/Locked/media/ch18/18_20OncogeneMutation-L.jpg' />
+    <img width='600' src='assets/img/protoonc_mech.png' />
 </div>
 
 ---
