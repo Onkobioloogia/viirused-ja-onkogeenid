@@ -9,6 +9,7 @@ hitheme     : tomorrow      #
 widgets     : [mathjax, bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+
 --- .segue .dark .nobackground
 
 <!-- Limit image width and height -->
@@ -409,7 +410,9 @@ Enne AIDSi epideemiat oli Kaposi sarkoom üliharuldane.
 ***=right
 HIV ise ei ole tumorigeenne, kuid loob immuunpuudulikkuse näol keskkonna kasvaja-viiruste "kapist välja" tulemiseks.
 
+---
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="it" dir="ltr">Images in Clinical Medicine: Kaposi’s Sarcoma of the Oral Cavity <a href="https://t.co/HGOUQcpqw5">https://t.co/HGOUQcpqw5</a> <a href="https://t.co/sKpeOxKrhT">pic.twitter.com/sKpeOxKrhT</a></p>&mdash; NEJM (@NEJM) <a href="https://twitter.com/NEJM/status/847493858267021312">March 30, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- --- -->
 <!-- ## Viiruse onkogeenid: RNA versus DNA viirused -->
